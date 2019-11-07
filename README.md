@@ -18,6 +18,10 @@ We have an awesome [Discord](https://discord.gg/C8fTNVt) that's really the heart
 
 Making this part of the site open source is part of how we want to expand that small Discord community to everyone.
 
+### But I can't code!
+
+That's OK. This project is designed to be easy to work on, even if you don't know how to code.
+
 ---
 
 ## What can we do here?
@@ -44,9 +48,9 @@ The Card Creator is a powerful and intimidating tool, and we were very happy to 
 
 ---
 
-## But I can't code!
+## Seriously, I can't code... are you sure I can use this?
 
-That's OK. This project is designed to be easy to work on, even if you don't know how to code.
+Yes! Here's how.
 
 **Note: Click on images to see a larger version.**
 
