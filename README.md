@@ -48,6 +48,8 @@ The Card Creator is a powerful and intimidating tool, and we were very happy to 
 
 That's OK. This project is designed to be easy to work on, even if you don't know how to code.
 
+**Note: Click on images to see a larger version.**
+
 Every file here that ends in ".md" is a **Markdown** file. Markdown is a way of writing documents that's similar to the formatting on Reddit.com.
 
 ![x](https://i.gyazo.com/b89cdf8c6d314a41ebffd264fd2871f3.png)
