@@ -18,6 +18,8 @@ We have an awesome [Discord](https://discord.gg/C8fTNVt) that's really the heart
 
 Making this part of the site open source is part of how we want to expand that small Discord community to everyone.
 
+---
+
 ## What can we do here?
 
 ### Write news articles
@@ -40,6 +42,67 @@ The rules are extensive, and sometimes we have a hard time keeping track of them
 
 The Card Creator is a powerful and intimidating tool, and we were very happy to find that the community does a great job of teaching themselves about it. You can find Advanced Card Creator Topics [here](https://www.collective.gg/library/card-creator-advanced/), and if you have found something odd or you have a question (and nobody else knows the answer -- and you've asked), please feel free to suggest it as an additional item on the page. Right now it's pretty short, but we have a feeling it'll get a lot bigger soon.
 
+--
+
 ## But I can't code!
 
 That's OK. This project is designed to be easy to work on, even if you don't know how to code.
+
+Every file here that ends in ".md" is a **Markdown** file. Markdown is a way of writing documents that's similar to the formatting on Reddit.com.
+
+![x](https://i.gyazo.com/dd662d9e8e9e57b375c5c102e8b22b3f.png)
+
+To edit a document, just click on the pencil icon in the upper right:
+
+![x](https://i.gyazo.com/91b9c411957615be699fd48362b72e5b.png)
+
+It will show you the un-formatted version of the page:
+
+![x](https://i.gyazo.com/75c9179cbfe387e9d5b04bac90284753.png)
+
+You can change it to something else, then click "preview changes" to see how it'll look. The Markdown shown by github is very similar to what appears within /library/! (It's usually the same, but with our color scheme.)
+
+![x](https://i.gyazo.com/c8238fbb4db6a318ede6c737df8cd8f2.png)
+
+If you want to add a new Markdown file, just click the "create new file" button in the upper right. Make sure it's similar to the other files in the same folder.
+
+To propose a change, edit or create a document, type it out, then click the green "propose file change" button below after writing a friendly description.
+
+![x](https://i.gyazo.com/7d1de03bca2a51c389b2d0363039ac39.png)
+
+If you want to spend some time writing out the new text, you can use an online Markdown editor like [Dillinger](https://dillinger.io/), which autosaves and shows a preview of your text side-by-side.
+
+--
+
+## Where can I make changes?
+
+Here's an overview of the structure of this project.
+
+```
+Top level
+ |
+ +-- docs
+ |    |
+ |    +-- something.md                <-- .md files like this are for
+ |    |                                   pages in the main /library/
+ |    +-- assets
+ |         |
+ |         +-- something.png          <-- image files like this can
+ |                                        be referenced in "docs" pages
+ +-- website
+      |
+      +-- blog
+           |
+           +-- something.md           <-- .md files like this are for
+           |                              pages in /library/blog/
+           +-- assets
+                |
+                +-- something.png     <-- image files like this can
+                                          be referenced in "blog" pages
+```
+
+## Fooled you, I actually can code!
+
+From early on in Collective we wanted to avoid it becoming "the card game for programmers." We are also pretty happy with how the /library/ pages are right now, and really just want people to fill it out.
+
+If you want to contribute anyway, this project was made with [Docusaurus 1.14](https://docusaurus.io/). You can find a good tutorial on how to get it working [here](https://docusaurus.io/docs/en/tutorial-setup), and it's designed to be at least sort of usable by people who have never written code before.
