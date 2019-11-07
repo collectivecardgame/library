@@ -66,7 +66,7 @@ You can change it to something else, then click "preview changes" to see how it'
 
 ![x](https://i.gyazo.com/79f53968d6c0a8c6a881c17dbc90d732.png)
 
-If you want to add a new Markdown file, just click the "create new file" button in the upper right. Make sure it's similar to the other files in the same folder.
+If you want to add a new Markdown file, just click the "create new file" button in the upper right. Make sure it's similar to the other files in the same folder. Click the "upload files" button to upload image files -- make sure you're in the right folder!
 
 To propose a change, edit or create a document, type it out, then click the green "propose file change" button below after writing a friendly description.
 
@@ -102,6 +102,18 @@ Top level
                 +-- something.png     <-- image files like this can
                                           be referenced in "blog" pages
 ```
+
+To make a new blog post, just make a new ".md" file in the /website/blog/
+folder. Make sure to start the filename with the year, month and date (with
+zeroes for single digit months and days) -- this is how our site can tell what
+day it was written. Then ping Nick on Discord and ask him to review the proposed
+post. (You can't make a change directly to the site without our approval.)
+
+To make a change to a file in the rules sections, just find the file and edit
+it, and ping Nick in the same way.
+
+Making a new page that shows up in the rules section is a little harder, but
+it should probably be discussed with Alec and Nick anyway.
 
 ---
 
