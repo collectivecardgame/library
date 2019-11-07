@@ -28,7 +28,7 @@ When you provide feedback on balance, we listen; but your main method of resolvi
 
 Collective is a young game, and we (the developers) are willing to make changes to the core rules of the game if we think they will promote better gameplay. A recent example of this was changing the maximum hand size from 13. The hard limit is still 13, but at the end of turn, players discard extra cards in hand until they have ten. Among the reasons we made this change:
 
-- At times, the meta involved both players regularly having full hands of 13 cards. We generally found this to be an undesireable game state, as did most players and playtesters.
+- At times, the meta involved both players regularly having full hands of 13 cards. We generally found this to be an undesirable game state, as did most players and playtesters.
 - We already had concerns about ease of use when we make a phone version of Collective, and players were already finding it difficult to simply click on their intended card in hand on desktop.
 
 We want to avoid making too many additional changes to the core gameplay, but reserve the right to do so. The entire game is a bit of an experiment, and when early decisions (such as setting many numbers in the game to 13) seem like clear mistakes, we will change them.
@@ -61,7 +61,7 @@ We've seen a trend of players creating small polls with [Strawpoll](https://www.
 
 ### Formalize it on Reddit
 
-If you feel strongly about something, make a post about it on the [Subreddit](https://old.reddit.com/r/collectivecg/). Just like with strawpolls in [Discord](https://discord.gg/C8fTNVt), we (the developers) will not necessarily do something just because it's popular. However, we pay attention, and even if we don't respond, we will hear you -- and the [Subreddit](https://old.reddit.com/r/collectivecg/) is a place where your message will get more visiblity. Alec, for example, reads the [Subreddit](https://old.reddit.com/r/collectivecg/) much more than the [Discord](https://discord.gg/C8fTNVt).
+If you feel strongly about something, make a post about it on the [Subreddit](https://old.reddit.com/r/collectivecg/). Just like with strawpolls in [Discord](https://discord.gg/C8fTNVt), we (the developers) will not necessarily do something just because it's popular. However, we pay attention, and even if we don't respond, we will hear you -- and the [Subreddit](https://old.reddit.com/r/collectivecg/) is a place where your message will get more visibility. Alec, for example, reads the [Subreddit](https://old.reddit.com/r/collectivecg/) much more than the [Discord](https://discord.gg/C8fTNVt).
 
 ## Have you considered using Ethereum or other Blockchain technologies?
 
@@ -69,7 +69,7 @@ We are of the opinion that blockchain and crypto are conceptually similar to the
 
 Our message has always basically been that the game couldn't work without our community and they're really important. Speculative markets can end up like pyramid schemes and just the flavor of that has the potential to spoil the optimistic idea behind Collective.
 
-In a less emotional world it could definitely be a good tool, but we really dont want to have our brand associated with alleged schemes like Bitconnect.
+In a less emotional world it could definitely be a good tool, but we really don't want to have our brand associated with alleged schemes like Bitconnect.
 
 ## Strict vs. Loose Rules Adherence
 
@@ -192,7 +192,7 @@ Design Competition topics were generally chosen by the developers. However, they
 - Design Competitions which are and are not counted as [Card] submissions. A Design Competition in which cards are not counted as [Card] submissions means that no more than the maximum number of winners can get in that week. A Design Competition in which cards are counted as [Card] submissions means that cards with enough upvotes to get into the top 10 [Card] posts that week can still be added to the game. In this case, if the Design Competition had three winners which don't take up top 10 slots, and thirteen entries which all had scores higher than the top [Card] post that week, all thirteen cards would get in, and no [Card] submissions would get in, because they all had lower scores than Design Competition entries. (This situation never happened, and a major reason was that Design Competition entries traditionally do worse than [Card] submissions.)
 - ["Team" Design Competitions](https://old.reddit.com/r/collectivecg/comments/9ht4aq/team_design_competition_week_19_merchants_feat/), in which pairs of players create a new card together.
 - Design Competitions which establish [a new Tribal Type](https://old.reddit.com/r/collectivecg/comments/9964h8/design_competition_week_14_weapons_armor/).
-- Design Competitions which the community [essentially rejected](https://old.reddit.com/r/collectivecg/comments/bch7ub/20_or_more_dc_1_entry_dc_design_competition_and/) – you can read [here](https://old.reddit.com/r/collectivecg/comments/bchysq/dc48_shitpost_ranking/) for a detailed rundown of community reactions to this Design Competition. The ultimate winner of the Design Compeitition, [Massive Boulder](https://old.reddit.com/r/collectivecg/comments/bcj4jj/dc48_massive_boulder/), was posted afterwards, and certainly deserved its title as winner.
+- Design Competitions which the community [essentially rejected](https://old.reddit.com/r/collectivecg/comments/bch7ub/20_or_more_dc_1_entry_dc_design_competition_and/) – you can read [here](https://old.reddit.com/r/collectivecg/comments/bchysq/dc48_shitpost_ranking/) for a detailed rundown of community reactions to this Design Competition. The ultimate winner of the Design Competition, [Massive Boulder](https://old.reddit.com/r/collectivecg/comments/bcj4jj/dc48_massive_boulder/), was posted afterwards, and certainly deserved its title as winner.
 - ["Design Competition Design Competitions,"](https://old.reddit.com/r/collectivecg/comments/c6sjim/dcdc_and_congratulations_to_the_winners_of_week_58/) in which the players submitted their own ideas for Design Competitions to the [Subreddit](https://old.reddit.com/r/collectivecg/) with the [DCDC] tag, and voted on which one would be the Design Competition topic for the next week.
 
 We have experimented a lot with Design Competitions, and we have had a ton of fun with them in their previous form. Currently we are rethinking how to use the system in the future, and whether changes should be made. At the time of writing, we have put a hold on new Design Competitions, and aside from the occasional DCDC, do not have plans to run more Design Competitions for now.
@@ -221,7 +221,7 @@ We've made very few changes to the Core Set so far, but in the future we may hav
 
 If players can update the Core Set it's very likely, players will buff Core Set cards until they're relevant, and if we have to change something there, then it can affect the meta unintentionally, which ruins the bigger thing we want out of the game: for the meta to be determined by the players.
 
-We believe that, even if the current players agree to only change Core Set cards to fit in with something like [Affinity Identities](/blog/2019/02/21/affinity-grammar), it will be difficult to make this case all over again for future players. For several months, players wanted to buff the Core Set to make it of the power level of other cards. The natural inclination players have is for all cards to be relevant, and the existance of an intentionally held back set of cards is unpleasant for the natural human desire for symmetry and balance.
+We believe that, even if the current players agree to only change Core Set cards to fit in with something like [Affinity Identities](/blog/2019/02/21/affinity-grammar), it will be difficult to make this case all over again for future players. For several months, players wanted to buff the Core Set to make it of the power level of other cards. The natural inclination players have is for all cards to be relevant, and the existence of an intentionally held back set of cards is unpleasant for the natural human desire for symmetry and balance.
 
 #### 4. Lore
 

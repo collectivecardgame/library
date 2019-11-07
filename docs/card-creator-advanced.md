@@ -6,7 +6,7 @@ sidebar_label: Card Creator Advanced Topics
 
 ## "This card's..." is a Lie
 
-The "This card's..." block is common way to quickly use properties of the card you're editing, but what it actual does is a bit more complex. "This card's..." searches through a heirarchy of different objects, looking for the property you've picked.
+The "This card's..." block is common way to quickly use properties of the card you're editing, but what it actual does is a bit more complex. "This card's..." searches through a hierarchy of different objects, looking for the property you've picked.
 ![Property Search Hierarchy](assets/scope-hierarchy-diagram.png)
 
 ### Object Types

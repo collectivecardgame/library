@@ -6,9 +6,9 @@
 
 Collective is **The Community Created Card Game.** It's a new kind of digital card game, where players can make their own cards, and which cards get into the game is determined by votes on [the Subreddit](https://reddit.com/r/collectivecg).
 
-### What is this github project?
+### What is this GitHub project?
 
-This is the codebase for a section of the Collective website. The stuff here turns into everything on the website with a url that starts with [/library](https://www.collective.gg/library/).
+This is the codebase for a section of the Collective website. The stuff here turns into everything on the website with a URL that starts with [/library](https://www.collective.gg/library/).
 
 ### Why is this open source?
 
@@ -66,7 +66,7 @@ It will show you the un-formatted version of the page:
 
 ![x](https://i.gyazo.com/f6e3282299aa0fef54fc0da1c5f148d2.png)
 
-You can change it to something else, then click "preview changes" to see how it'll look. The Markdown shown by github is very similar to what appears within /library/! (It's usually the same, but with our color scheme.)
+You can change it to something else, then click "preview changes" to see how it'll look. The Markdown shown by GitHub is very similar to what appears within /library/! (It's usually the same, but with our color scheme.)
 
 ![x](https://i.gyazo.com/79f53968d6c0a8c6a881c17dbc90d732.png)
 
