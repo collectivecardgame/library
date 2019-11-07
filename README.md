@@ -72,7 +72,7 @@ To propose a change, edit or create a document, type it out, then click the gree
 
 If you want to spend some time writing out the new text, you can use an online Markdown editor like [Dillinger](https://dillinger.io/), which autosaves and shows a preview of your text side-by-side.
 
---
+---
 
 ## Where can I make changes?
 
@@ -100,6 +100,8 @@ Top level
                 +-- something.png     <-- image files like this can
                                           be referenced in "blog" pages
 ```
+
+---
 
 ## Fooled you, I actually can code!
 
