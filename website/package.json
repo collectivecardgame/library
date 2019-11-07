@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "examples": "docusaurus-examples",
+    "start": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish-gh-pages": "docusaurus-publish",
+    "write-translations": "docusaurus-write-translations",
+    "version": "docusaurus-version",
+    "rename-version": "docusaurus-rename-version",
+    "copy-topbar-styles": "cp node_modules/collective-top-bar/src/lib/components/style-placeholder.css static/css/topbar.css"
+  },
+  "devDependencies": {
+    "docusaurus": "^1.12.0"
+  },
+  "dependencies": {
+    "collective-top-bar": "github:kenning/collective-top-bar#master"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Library": {
+    "Introduction": ["welcome"],
+    "Democratic Process": [
+      "rules-subreddit",
+      "rules-new-cards",
+      "rules-updates",
+      "rules-commenting",
+      "rules-keywords",
+      "faq"
+    ],
+    "Lore": ["lore", "wanderstar"],
+    "Tutorials": ["howtoplay", "card-creator-tutorials", "card-creator-advanced"],
+    "Realms": [
+      "realms-1",
+      "realms-2",
+      "realms-3",
+      "realms-4",
+      "realms-5",
+      "realms-6"
+    ]
+  }
+}

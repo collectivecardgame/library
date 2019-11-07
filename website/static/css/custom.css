@@ -1,0 +1,384 @@
+/******************************
+ * Css variables
+ ******************************/
+
+:root {
+  --bg-color: #3a3a3a;
+  --h1: #fff;
+  --h2: #f8f8f8;
+  --h3: #f0f0f0;
+  --h4: #e8e8e8;
+  --h5: #e0e0e0;
+  --h6: #d8d8d8;
+  --text-color: #ddd;
+  --deemphasized-text-color: #aaa;
+  --dark-text-color: #999;
+  --link-color: #e9967b;
+  --link-hover-color: #ffc1ac;
+  --discord: #7289da;
+  --reddit: #ff4500;
+}
+
+/******************************
+ * Overrides of original docusaurus -- color 
+ ******************************/
+
+body {
+  background-color: var(--bg-color) !important;
+  background: linear-gradient(to bottom, #3a3a3a 0%, #353535 100%);
+  color: var(--text-color);
+}
+
+.hash-link .hash-link-icon {
+  fill: white;
+}
+.arrow path:first-child {
+  fill: white;
+}
+
+/* H1-H6 */
+h1,
+h1 a {
+  color: var(--h1) !important;
+}
+h2 {
+  color: var(--h2) !important;
+}
+h3 {
+  color: var(--h3) !important;
+}
+h4 {
+  color: var(--h4) !important;
+}
+h5 {
+  color: var(--h5) !important;
+}
+h6 {
+  color: var(--h6) !important;
+}
+
+/******************************
+ * Adjustments for Collective top navbar
+ ******************************/
+
+/* .navPusher {
+  padding-top: 165px;
+}
+
+.mainContainer,
+.toc {
+  padding: 0;
+} */
+
+/******************************
+ * Sidebar links
+ ******************************/
+
+/* When the scrollbar is visible, text is behind it. 
+see: /library/rules-new-cards */
+.onPageNav {
+  padding-right: 4px;
+}
+
+/* Active on the left */
+.toc .toggleNav ul li.navListItemActive a,
+/* On the right */
+.onPageNav .toc-headings > li > a.active {
+  color: var(--text-color);
+  font-weight: initial;
+}
+
+/* Not active on the left */
+.onPageNav a,
+/* On the right */
+.toc .toggleNav ul li a {
+  color: var(--deemphasized-text-color);
+  transition: color 0.3s;
+}
+
+/* Hovers */
+.onPageNav a:hover,
+.toc .toggleNav ul li a:hover,
+.onPageNav a:focus,
+.toc .toggleNav ul li a:focus {
+  color: var(--text-color);
+  font-weight: initial;
+}
+
+/******************************
+ * Upper right nav, "Library" or "Blog" links for example
+ ******************************/
+
+/* Desktop */
+/* Header is not a solid bar, but floating links */
+@media only screen and (min-width: 1024px) {
+  .fixedHeaderContainer {
+    background-color: rgba(0, 0, 0, 0);
+    width: auto;
+    bottom: 10px;
+    left: 0px;
+    font-size: 14px;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 1023px) {
+  .navPusher {
+    position: initial;
+    padding-top: 96px;
+  }
+  .mainContainer {
+    padding: 60px 0 0 0;
+  }
+  .navigationSlider .slidingNav ul {
+    margin: 0;
+  }
+  .fixedHeaderContainer {
+    top: 48px;
+    max-height: 18px;
+    z-index: 99;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  .navigationSlider .slidingNav {
+    top: 10px;
+  }
+  .slidingNav > ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .navigationSlider .slidingNav ul li {
+    display: unset;
+    max-width: 25vw;
+  }
+  .navigationSlider .slidingNav ul li a {
+    padding: 0 10px;
+    height: 30px;
+    font-size: 11px;
+    margin: 0 !important;
+  }
+  .headerWrapper {
+    background-color: var(--bg-color);
+    padding: 5px;
+    margin-top: -9px;
+    padding-bottom: 10px;
+  }
+}
+
+/* Honestly no fucking clue whats happening here */
+@media (min-width: 736px) and (max-width: 1023px) {
+  .fixedHeaderContainer {
+    z-index: 100;
+    margin-top: 9px;
+    top: 46px;
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  /* Next article button is on right */
+  .docs-prevnext {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .docs-prevnext .button {
+    width: 100%;
+  }
+  .docs-next {
+    text-align: right;
+  }
+
+  /* Prevent white background */
+  .docsNavContainer {
+    background: rgba(0, 0, 0, 0);
+  }
+}
+
+/* Nav background is transparent */
+.navigationSlider .slidingNav ul li > a:focus,
+.navigationSlider .slidingNav ul li > a:hover,
+.navigationSlider .slidingNav ul li.siteNavItemActive > a,
+.navigationSlider .slidingNav ul li.siteNavGroupActive > a {
+  background-color: rgba(0, 0, 0, 0);
+}
+/* Links have little rounded backgrounds */
+.navigationSlider .slidingNav ul li a {
+  background-color: var(--bg-color) !important;
+  border-radius: 4px;
+  margin-left: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+/* The active one */
+.navigationSlider .slidingNav ul li.siteNavItemActive a,
+.navigationSlider .slidingNav ul li.siteNavGroupActive a {
+  font-weight: 600;
+}
+
+/******************************
+ * Customization of markdown, links, etc -- used to improve writing
+ ******************************/
+
+/* Special treatment for links to Discord */
+article a[href="https://discord.gg/C8fTNVt"],
+.lonePost p a[href="https://discord.gg/C8fTNVt"] {
+  color: var(--discord);
+  font-weight: 600;
+}
+article a[href="https://discord.gg/C8fTNVt"]:hover,
+.lonePost p a[href="https://discord.gg/C8fTNVt"]:hover {
+  color: white;
+}
+
+/* Special treatment for links to Reddit */
+article a[href^="https://old.reddit.com/"],
+.lonePost p a[href^="https://old.reddit.com/"] {
+  color: var(--reddit);
+  font-weight: 600;
+}
+article a[href^="https://old.reddit.com/"]:hover,
+.lonePost p a[href^="https://old.reddit.com/"]:hover {
+  color: white;
+}
+
+/* All other in-document links */
+article a,
+.lonePost p a,
+li a {
+  color: var(--link-color);
+  display: inline-block; /* Prevent links from being broken up */
+}
+article a:hover,
+.lonePost p a:hover,
+li a:hover {
+  color: var(--link-hover-color);
+}
+
+/* Deemphasize less important sections */
+.dark {
+  color: var(--dark-text-color);
+}
+.dark a {
+  font-weight: 700; /* Make links visible without color difference */
+}
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark a {
+  color: var(--dark-text-color) !important;
+}
+
+/******************************
+ * Overrides of original docusaurus -- misc
+ ******************************/
+
+/* Don't bounce beyond top or bottom, prevents "peeking" at white html */
+body {
+  overscroll-behavior-y: none;
+}
+
+/* Images all have a border radius */
+img {
+  border-radius: 16px;
+}
+
+/* Bolder bold */
+strong {
+  font-weight: 700;
+}
+
+/* Better blockquote */
+blockquote {
+  color: var(--text-color);
+  background-color: rgba(233, 150, 123, 0.3);
+  border-left: 8px solid #e9967b;
+}
+
+/* Normalize spacing in nested lists */
+li > ul > li:first-child {
+  margin-top: 0.25em;
+}
+
+/* This fixes something i don't remember what */
+a:not([href]) {
+  color: white;
+}
+
+/* Add padding at bottom of blog, seems to just be a mistake */
+.blogContainer {
+  margin-bottom: 20px;
+}
+
+/* Destroy social media */
+.blogSocialSection {
+  display: none;
+}
+
+/* Buttons at the bottom of the page */
+a.button {
+  color: var(--deemphasized-text-color);
+  border-color: var(--deemphasized-text-color);
+}
+a.button:hover {
+  color: var(--text-color);
+  border-color: var(--text-color);
+}
+
+/* Side pages like /links */
+/* Makes up for missing sidebar */
+@media only screen and (min-width: 1024px) {
+  .mainContainer:first-child {
+    margin-left: 288px;
+  }
+}
+
+/******************************
+ * Overrides of original docusaurus -- mobile
+ ******************************/
+
+.docsNavContainer .toc .navBreadcrumb {
+  background-color: black;
+}
+.navBreadcrumb a,
+.navBreadcrumb span {
+  color: var(--text-color);
+}
+.line1,
+.line2,
+.line3,
+.icon-toc,
+.icon-toc:before,
+.icon-toc:after {
+  background-color: var(--text-color);
+  border-color: var(--text-color);
+}
+.tocActive .onPageNav,
+.docsSliderActive .toc section .navGroups {
+  background-color: black;
+}
+
+em,
+i {
+  font-style: initial;
+}
+
+/* Unused media queries */
+/*
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+*/
