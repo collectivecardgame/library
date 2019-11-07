@@ -42,7 +42,7 @@ The rules are extensive, and sometimes we have a hard time keeping track of them
 
 The Card Creator is a powerful and intimidating tool, and we were very happy to find that the community does a great job of teaching themselves about it. You can find Advanced Card Creator Topics [here](https://www.collective.gg/library/card-creator-advanced/), and if you have found something odd or you have a question (and nobody else knows the answer -- and you've asked), please feel free to suggest it as an additional item on the page. Right now it's pretty short, but we have a feeling it'll get a lot bigger soon.
 
---
+---
 
 ## But I can't code!
 
