@@ -50,25 +50,25 @@ That's OK. This project is designed to be easy to work on, even if you don't kno
 
 Every file here that ends in ".md" is a **Markdown** file. Markdown is a way of writing documents that's similar to the formatting on Reddit.com.
 
-![x](https://i.gyazo.com/dd662d9e8e9e57b375c5c102e8b22b3f.png)
+![x](https://i.gyazo.com/b89cdf8c6d314a41ebffd264fd2871f3.png)
 
 To edit a document, just click on the pencil icon in the upper right:
 
-![x](https://i.gyazo.com/91b9c411957615be699fd48362b72e5b.png)
+![x](https://i.gyazo.com/aee8f96bae44aa591717ee89e2997d7a.png)
 
 It will show you the un-formatted version of the page:
 
-![x](https://i.gyazo.com/75c9179cbfe387e9d5b04bac90284753.png)
+![x](https://i.gyazo.com/f6e3282299aa0fef54fc0da1c5f148d2.png)
 
 You can change it to something else, then click "preview changes" to see how it'll look. The Markdown shown by github is very similar to what appears within /library/! (It's usually the same, but with our color scheme.)
 
-![x](https://i.gyazo.com/c8238fbb4db6a318ede6c737df8cd8f2.png)
+![x](https://i.gyazo.com/79f53968d6c0a8c6a881c17dbc90d732.png)
 
 If you want to add a new Markdown file, just click the "create new file" button in the upper right. Make sure it's similar to the other files in the same folder.
 
 To propose a change, edit or create a document, type it out, then click the green "propose file change" button below after writing a friendly description.
 
-![x](https://i.gyazo.com/7d1de03bca2a51c389b2d0363039ac39.png)
+![x](https://i.gyazo.com/2663107dbc473e7dfe8be0444d1891ac.png)
 
 If you want to spend some time writing out the new text, you can use an online Markdown editor like [Dillinger](https://dillinger.io/), which autosaves and shows a preview of your text side-by-side.
 
