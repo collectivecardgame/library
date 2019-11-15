@@ -3,13 +3,15 @@ id: card-creator-faq
 title: "Strange Card Creator Facts"
 ---
 
+Based on a list compiled by one of the players.
+
 1. **To check if a card belongs to a Tribe : one should use {Contains...} instead of {Equal to...}**
 
     The Tribe property contains more than one Tribe
 
 2. **To update the ability text of a card, and make it show in game : one should remove that ability, then add it back again**
 
-    https://files.collective.gg/p/cards/e93bffb0-0264-11ea-b5e4-ebb06e00cbc2-s.png
+    This isn't accurate - see this card as an example: https://files.collective.gg/p/cards/e93bffb0-0264-11ea-b5e4-ebb06e00cbc2-s.png
 
 3. **To Choose cards with complicated targets : one could create those cards in the Removed From Game zone, then choose from those cards later**
 
