@@ -53,9 +53,9 @@ For example, a unit which says "does nothing" but wins the game if unblocked.
 
 You cannot use outside image editing tools to create your own cards.
 
-### 8. No cards using existing art or otherwise appearing too similar to an existing card
+### 8. No cards using existing art, an existing name, or otherwise appearing too similar to an existing card
 
-You cannot submit cards with identical or nearly identical art to already existing cards. Other similarities to existing cards which could confuse someone who is newer to the game are also not allowed. (This is a grey area.)
+You cannot submit cards with name or art which is identical or nearly identical to an existing card. Other similarities to existing cards which could confuse someone who is newer to the game are also not allowed. (This is a grey area.)
 
 ### 9. No cards which are intentionally designed around surfacing a bug
 
