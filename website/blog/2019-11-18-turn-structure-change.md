@@ -1,5 +1,5 @@
 ---
-title: THE BIG TURN STRUCTURE CHANGE
+title: V0.11.4 THE BIG TURN STRUCTURE CHANGE
 author: Nick & Alec
 ---
 
@@ -34,3 +34,37 @@ Lots of cards are just not going to work in this system, again that's not really
 - The Undo button does nothing. There'll be a delay getting this fixed because it depends on getting updated board art.
 - Story mode is disabled. Now isn't a good time to invite friends because our tutorial is disabled.
 - The turn timer hasn't been updated to track across priority passes. This will be a high priority fix once we decide to keep the new turn structure.
+
+## Other Changes
+
+- Ranked and Casual have been combined into a single mode “Versus” for the time being.
+    - Versus uses the former ranked leaderboard. All cards in the Collection are allowed.
+    - The monthly delay on cards has also been removed from Astral Gauntlet.
+- Cards in your hand have to be dragged out to be played. Previously you could click them to queue them up, but we worry that's too error-prone now that Undo is gone.
+- Core Set
+    - Gladiator Mace now costs 2.
+
+## Limboed Cards
+
+These are in limbo due to interacting with the resolving zone:
+
+- Archmage Melidas
+- Zzikk, the Scheming
+- Wormhole Investigator
+- Rebound
+- Rapid Onset Evolution
+- Deep-Sea Passage
+- Disruption Mage
+- Ophidia, World Parasite
+- Eternal Flame
+- Galactic Command Post
+- The Vannullifier
+- Backstage Valkyrie
+- Reversal Mage
+- Counterspell
+- Arcane Power Staff
+- Radioactive Mutagen
+
+These are preemptively limboed for balance:
+
+- Honeypot Ant Brew
