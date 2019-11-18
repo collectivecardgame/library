@@ -32,3 +32,4 @@ Lots of cards are just not going to work in this system, again that's not really
 
 - Any cards dealing with the Resolving zone won't work.
 - The Undo button does nothing. There'll be a delay getting this fixed because it depends on getting updated board art.
+- Story mode is disabled. Now isn't a good time to invite friends because our tutorial is disabled.
