@@ -32,6 +32,7 @@ Lots of cards are just not going to work in this system, again that's not really
 
 - Any cards dealing with the Resolving zone won't work.
 - The Undo button does nothing. There'll be a delay getting this fixed because it depends on getting updated board art.
+    - You can't undo mulligans.
 - Story mode is disabled. Now isn't a good time to invite friends because our tutorial is disabled.
 - The turn timer hasn't been updated to track across priority passes. This will be a high priority fix once we decide to keep the new turn structure.
 
@@ -51,7 +52,6 @@ These are in limbo due to interacting with the resolving zone:
 - Archmage Melidas
 - Zzikk, the Scheming
 - Wormhole Investigator
-- Rebound
 - Rapid Onset Evolution
 - Deep-Sea Passage
 - Disruption Mage
