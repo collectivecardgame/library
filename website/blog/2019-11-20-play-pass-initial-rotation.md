@@ -7,7 +7,7 @@ Response to the new turn structure is good and we're going to keep it. But the g
 
 ## Rotation
 
-We have been thinking about rotation for a while, because the original release date of Q4 2019 is really bad timing for an indie game so we’re delaying it, and as a result the math works out differently. At the current rate the game would release with a playable set of 1000+ cards, which is too much. We’re aiming to cut it down to 300-400 cards as a playable set, which will gain another 100-200 cards before release.
+We have been thinking about rotation for a while. The original release date of Q4 2019 is really bad timing for an indie game, so we’re delaying the launch, and as a result the math works out differently. At the current rate the game would release with a playable set of 1000+ cards, which is too much. We’re aiming to cut it down to 300-400 cards as a playable set, which will gain another 100-200 cards before release.
 
 First, let’s define some terms.
 
@@ -15,11 +15,11 @@ First, let’s define some terms.
 
 * The **Core Set** refers to the developer-created cards which are canonically from Wanderstar and should generally be ignored except for Fireball and Cataclysm. The purpose of the Core Set was partially lore and partially to give people a handful of cards to play with at first, it’s almost entirely pointless now.
 
-* The **Basic Set**, **Classic Set**, and the **Hall of Fame** are terms from Hearthstone and refer to things which we aren’t going to have in Collective, i.e. a permanent set of cards which never rotates. 
+* The **Basic Set**, **Classic Set**, and the **Hall of Fame** are terms from Hearthstone and refer to things which we aren’t going to have in Collective, i.e. a permanent set of cards which never rotates. We won't be using them here. 
 
 * **Initial Rotation** is the one-time process we’re going to do in the next couple weeks to set up the new set of cards playable in multiplayer (the **Standard Set**).
 
-In the future rotation should be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, codenamed Gene Wilder Mode, where all cards are playable. 
+In the future, rotation will be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, codenamed Gene Wilder Mode, where all cards are playable. 
 
 ## Initial Rotation
 
@@ -27,7 +27,7 @@ In the future rotation should be handled via a predefined process. The first tim
 
 * The council will be: Plass, Wag, Grief, Tahazzar, TomSoniQ, GentleCat. (A couple of these people haven’t responded yet.) These people were chosen based on experience playing and innovating on new decks, previous experience making relatively balanced card sets, and to include a wide variety of dissenting opinions. 
 
-* It will be the council’s responsibility to not only choose which cards make up the new **standard set**, but also to change the way they work. For this reason, we actually will not be accepting updates to existing cards to make them work until the new set is chosen. If they need help making all the mechanical and balance changes to existing cards, they may ask for other players to contribute.
+* It will be the council’s responsibility to not only choose which cards make up the new **standard set**, but also to change them so they work under the new Play/Pass rules. For this reason, we actually will not be accepting updates to existing cards to make them work until the new set is chosen. If they need help making all the mechanical and balance changes to existing cards, they may ask for other players to contribute.
 
 * The final list of changes, mechanical and balance alike, will be reviewed by Nick and Alec.
 
@@ -47,7 +47,7 @@ Once **Initial Rotation** is done, we’ll open things up for three new kinds of
   
   * Players can make [Play/Pass Update] and [Play/Pass Balance Update] posts to things after they were changed in **Initial Rotation** if people agree that it could be done better. Again, if the concern is balance, your post will need a written explanation or it will take up one of the three weekly [Update] slots.
   
-  * Until **Initial Rotation** is done, please tell us if there’s a problem and we will limbo them without much process to make sure that as few cards as possible are in play with obvious bugs (even though they only come up in draft or singleplayer modes). 
+  * Until **Initial Rotation** is done, please tell us if there’s a problem and we will limbo them without much process to make sure that as few cards as possible are in play with obvious bugs (even if they only come up in draft or singleplayer modes). 
   
   * None of these rules will be added to the Library section because **Initial Rotation** is a one-time thing. Eventually we will stop allowing both types of [Play/Pass Update] posts -- this time will basically be when people are done making them, or if people are slowly trickling them in, we’ll try to organize and finish the process up, then stop allowing these. 
 
@@ -55,15 +55,15 @@ Once **Initial Rotation** is done, we’ll open things up for three new kinds of
 
 ### Criteria for rotation
 
-* There’s a few things we really want to prioritize:
+* There are a few things we really want to prioritize:
 
-	* Last couple months of cards are all in the set, they haven’t really had much of a chance to be played with
+	* Last couple months of cards are all in the set, they haven’t really had much of a chance to be played with.
 
 	* Generally, we’re trying to keep Realms as complete as we can. However, if we just included every card from a Realm we’d already be over 290 cards, so we need to make some cuts somewhere. 
 
 		* Cutting a whole Realm will really only happen if they haven’t been supported in a few months, are very complicated, fit poorly with the total number of cards at a certain cost/affinity, or some combination of these. 
 
-		* Keeping some cards from a Realm but not others should be done to keep synergistic interactions, or allow for a framework that can let them re-emerge relatively easily. Balancing 
+		* Keeping some cards from a Realm but not others should be done to keep synergistic interactions, or allow for a framework that can let them re-emerge relatively easily. 
 
 		* Realm rewards and the ability to add cards from a Realm (or even update them) are not affected by rotation. Aside from trying to keep Realms whole during **Initial Rotation**, Realms are essentially unrelated to rotation.
 
