@@ -81,7 +81,7 @@ No new cards this Friday. We’re rolling cards from this week into next week be
 
 Bringing the queue back for a festival at some point is a cool idea we’d like to do down the line.
 
-Bringing in the set of all cards as a preview of a Legacy mode is much easier than a festival which goes back to the queue system and we will definitely make a festival of this. If it gets popular enough we can release Legacy Mode ahead of schedule.
+Bringing in the set of all cards for a festival as a preview of a Legacy mode is much easier than a festival which goes back to the queue system and we will definitely make a festival of this. If it gets popular enough we can release Legacy Mode ahead of schedule.
 
 We’ll be removing ticks in the coming days, and plenty of hotfixes and other small patches to try to fix up this messy system we have running right now. Please bear with us 😬
 
