@@ -19,8 +19,6 @@ First, let’s define some terms.
 
 * **Initial Rotation** is the one-time process we’re going to do in the next couple weeks to set up the new set of cards playable in multiplayer (the **Standard Set**).
 
-In the future, rotation will be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, codenamed Gene Wilder Mode, where all cards are playable. 
-
 ## Initial Rotation
 
 **For this one time**, we are thinking of getting a small group of players together to pick which cards from the existing ~800 will comprise the new **Standard Set**. This is called **Initial Rotation**. Future rotations will be handled without the need for something like this.
@@ -37,7 +35,7 @@ In the future, rotation will be handled via a predefined process. The first time
 
 Once **Initial Rotation** is done, we’ll open things up for three new kinds of submissions, with the tags: [Reprint], [Play/Pass Update] and [Play/Pass Balance Update]. 
 
-* All cards, not just the new **standard set**, will have to be updated if they don’t work in the Play/Pass rules system, because we are making it so mid-game drafts can still pull from cards which are not in the **standard set**. (This feature will be deprecated with the addition of Gene Wilder Mode; once that mode is available, your drafts will come from the pool of cards available in whatever mode you’re playing.)
+* All cards, not just the new **standard set**, will have to be updated if they don’t work in the Play/Pass rules system, because we are making it so mid-game drafts can still pull from cards which are not in the **standard set**. (This feature will be deprecated with the addition of Legacy Mode; once that mode is available, your drafts will come from the pool of cards available in whatever mode you’re playing.)
   
   * Any card can be adapted to the new ruleset with a [Play/Pass Update]. Any number of these above the 10th slot will get in. (If an insane number of them gets in in one week, we’ll probably check them on Saturday so we can make sure they work properly without having a five hour stream.)
   
@@ -73,12 +71,18 @@ Once **Initial Rotation** is done, we’ll open things up for three new kinds of
 
 * Everyone in the discord who bothers to read this gets to choose one card to keep after the list. Please do not abuse this system by choosing, for example, a card which only works or makes sense when four other cards which were also cut are also in the pool, just to make a point. We’ll announce a way to do this once **Initial Rotation** is over.
 
+### Future rotations
+
+In the future, rotation will be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, called Legacy Mode, where all cards are playable. This will continue every year at the same time, rotating out cards so that only the previous 12 months are in the **standard set**.
+
 ## More info
 
 No new cards this Friday. We’re rolling cards from this week into next week because the game rules change are pretty drastic and principles of design for it are still being figured out. We think of this as giving some breathing room, but if people really hate this idea we would be fine with having cards as normal this week. We will still do a stream friday.
+
 Bringing the queue back for a festival at some point is a cool idea we’d like to do down the line.
+
+Bringing in the set of all cards for a festival as a preview of a Legacy mode is much easier than a festival which goes back to the queue system and we will definitely make a festival of this. If it gets popular enough we can release Legacy Mode ahead of schedule.
+
 We’ll be removing ticks in the coming days, and plenty of hotfixes and other small patches to try to fix up this messy system we have running right now. Please bear with us 😬
 
 Thanks very much for your patience here -- and thanks for making suggestions on how to improve the system. Your feedback, design sense and creativity are how we got this far :D
-
-We’ll take responses in #feature-request-discuss. 
