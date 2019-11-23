@@ -73,7 +73,7 @@ Once **Initial Rotation** is done, we’ll open things up for three new kinds of
 
 ### Future rotations
 
-In the future, rotation will be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, called Legacy Mode, where all cards are playable. 
+In the future, rotation will be handled via a predefined process. The first time this will happen will be at the game’s anniversary (also the timing of the annual Wandervision Awards) in 2021, when the **standard set** of cards rotates so that only the previous 12 months of cards will be included. At this time we will also introduce a mode, called Legacy Mode, where all cards are playable. This will continue every year at the same time, rotating out cards so that only the previous 12 months are in the **standard set**.
 
 ## More info
 
@@ -86,5 +86,3 @@ Bringing in the set of all cards as a preview of a Legacy mode is much easier th
 We’ll be removing ticks in the coming days, and plenty of hotfixes and other small patches to try to fix up this messy system we have running right now. Please bear with us 😬
 
 Thanks very much for your patience here -- and thanks for making suggestions on how to improve the system. Your feedback, design sense and creativity are how we got this far :D
-
-We’ll take responses in #feature-request-discuss. 
