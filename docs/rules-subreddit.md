@@ -37,11 +37,11 @@ Here are the tags and when to use them:
 
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
-### [DCXX] / Design Competitions
+### Conflicting Updates
 
-- Cards submitted for a Design Competition should be submitted with the [DCXX] tag, where XX is the number of the week, and follow all the rules in the announcement reddit post for that specific Design Competition.
+- If two [Update] or [Cosmetic Update] posts for the same card are voted into the top 10 and have "conflicting changes," we will only use whichever one has more upvotes. 
 
-- Design Competitions are being rethought and are not likely to occur for a while.
+- Conflicting change examples would include: two [Update] posts which change the balance of a card, or two [Cosmetic Update] posts which change the same aspect of a card (its name, for example).
 
 ## Votes
 
