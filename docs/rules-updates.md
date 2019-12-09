@@ -36,7 +36,7 @@ Your change should be a significant and noticeable change to the art.
 
 ### 5. No changing a card to remove its Design Competition restriction
 
-If the card you're updating was the winner of a Design Competition with a specific restriction, your update cannot change the card to break the restriction.
+If the card you're updating was the winner of a Design Competition with a specific restriction, your update cannot change the card to break the restriction. (Design Competitions are an old feature which we may come back to at some point.)
 
 ### 6. Cards can be updated the week they are added
 

@@ -180,23 +180,6 @@ This doesn't feel like it outweighs the benefits to us.
 
 This is a section with more information on the background and justification for miscellaneous developer decisions which are not democratically controlled.
 
-### Design Competition Topics
-
-[Design Competitions](rules-subreddit.md#dcxx-design-competitions) are an event in which card creators are given a prompt, such as "Cards with Flying," and the highest rated cards which are submitted with the appropriate Design Competition tag are added to the game.
-
-Design Competition topics were generally chosen by the developers. However, they have gone through several different iterations, including:
-
-- Design Competitions with [Five](https://old.reddit.com/r/collectivecg/comments/9ht4aq/team_design_competition_week_19_merchants_feat/), [Four](https://old.reddit.com/r/collectivecg/comments/apl63d/design_competition_week_39_taxes/), [Three](https://old.reddit.com/r/collectivecg/comments/9ohsmp/design_competition_week_22_spooky_corruptions/), and even [One](https://old.reddit.com/r/collectivecg/comments/9yp7aa/design_competition_week_27_haikus/) winner(s).
-- Design Competitions with and without "guaranteed slots." A Design Competition with "guaranteed slots" means that the winners of the Competition will get in, even if their score is below the score for the tenth card that week. Design Competitions without guaranteed slots have to have a score higher than the tenth card that week to get in, meaning that aside from providing extra slots that week, Design Competition cards are effectively the same as [Card] submissions.
-- Design Competitions which do and do not take up the top 10 slots. If a Design Competition takes up the top 10 slots and has "guaranteed slots," it lowers the number of [Card] submissions added that week by however many winners it has. If it takes up the top 10 slots and does not have "guaranteed slots," it would effectively function identically to a [Card] submission. (This has happened at one point or another, but sort of defeats the purpose of Design Competitions.)
-- Design Competitions which are and are not counted as [Card] submissions. A Design Competition in which cards are not counted as [Card] submissions means that no more than the maximum number of winners can get in that week. A Design Competition in which cards are counted as [Card] submissions means that cards with enough upvotes to get into the top 10 [Card] posts that week can still be added to the game. In this case, if the Design Competition had three winners which don't take up top 10 slots, and thirteen entries which all had scores higher than the top [Card] post that week, all thirteen cards would get in, and no [Card] submissions would get in, because they all had lower scores than Design Competition entries. (This situation never happened, and a major reason was that Design Competition entries traditionally do worse than [Card] submissions.)
-- ["Team" Design Competitions](https://old.reddit.com/r/collectivecg/comments/9ht4aq/team_design_competition_week_19_merchants_feat/), in which pairs of players create a new card together.
-- Design Competitions which establish [a new Tribal Type](https://old.reddit.com/r/collectivecg/comments/9964h8/design_competition_week_14_weapons_armor/).
-- Design Competitions which the community [essentially rejected](https://old.reddit.com/r/collectivecg/comments/bch7ub/20_or_more_dc_1_entry_dc_design_competition_and/) – you can read [here](https://old.reddit.com/r/collectivecg/comments/bchysq/dc48_shitpost_ranking/) for a detailed rundown of community reactions to this Design Competition. The ultimate winner of the Design Competition, [Massive Boulder](https://old.reddit.com/r/collectivecg/comments/bcj4jj/dc48_massive_boulder/), was posted afterwards, and certainly deserved its title as winner.
-- ["Design Competition Design Competitions,"](https://old.reddit.com/r/collectivecg/comments/c6sjim/dcdc_and_congratulations_to_the_winners_of_week_58/) in which the players submitted their own ideas for Design Competitions to the [Subreddit](https://old.reddit.com/r/collectivecg/) with the [DCDC] tag, and voted on which one would be the Design Competition topic for the next week.
-
-We have experimented a lot with Design Competitions, and we have had a ton of fun with them in their previous form. Currently we are rethinking how to use the system in the future, and whether changes should be made. At the time of writing, we have put a hold on new Design Competitions, and aside from the occasional DCDC, do not have plans to run more Design Competitions for now.
-
 ### Updating the Core Set
 
 Players cannot update the Core Set of cards.

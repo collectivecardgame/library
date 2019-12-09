@@ -37,11 +37,11 @@ Here are the tags and when to use them:
 
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
-### [DCXX] / Design Competitions
+### Conflicting Updates
 
-- Cards submitted for a Design Competition should be submitted with the [DCXX] tag, where XX is the number of the week, and follow all the rules in the announcement reddit post for that specific Design Competition.
+- If two [Update] or [Cosmetic Update] posts for the same card are voted into the top 10 and have "conflicting changes," we will only use whichever one has more upvotes.
 
-- Design Competitions are being rethought and are not likely to occur for a while.
+- Conflicting change examples would include: two [Update] posts which change the balance of a card, or two [Cosmetic Update] posts which change the same aspect of a card (its name, for example).
 
 ## Votes
 
@@ -65,7 +65,7 @@ At **Friday 10:00 am PST**, Alec and Nick review the top cards of the week. They
 
 ## Submission Rewards
 
-When your post is accepted, if it is a [Card] or Design Competition submission, contributors to the card get:
+When your [Card] is accepted, contributors to the card get:
 
 - A reward of gold (an in-game currency) split evenly among all contributors to the card
   - Cards which have bugs will receive 500 gold and not let into the game until their original creator fixes them
