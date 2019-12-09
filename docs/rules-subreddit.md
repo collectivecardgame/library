@@ -37,12 +37,6 @@ Here are the tags and when to use them:
 
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
-### [DCXX] / Design Competitions
-
-- Cards submitted for a Design Competition should be submitted with the [DCXX] tag, where XX is the number of the week, and follow all the rules in the announcement reddit post for that specific Design Competition.
-
-- Design Competitions are being rethought and are not likely to occur for a while.
-
 ## Votes
 
 - Votes on cards are combined from two sources:
