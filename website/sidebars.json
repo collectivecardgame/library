@@ -10,7 +10,7 @@
       "faq"
     ],
     "Lore": ["lore", "wanderstar"],
-    "Tutorials": ["howtoplay", "card-creator-tutorials", "card-creator-advanced"],
+    "Tutorials": ["howtoplay", "card-creator-tutorials", "card-creator-advanced", "card-creator-faq"],
     "Realms": [
       "realms-1",
       "realms-2",

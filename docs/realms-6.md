@@ -18,7 +18,7 @@ Admins of a Realm should ideally not feel as if they are the "leaders" but rathe
 
   - If you veto a card, it would be good to give a reason along with it; we will provide this reasoning in a comment on the card for other people to see. [This](https://old.reddit.com/r/collectivecg/comments/d2jw21/card_n3on_shenlong/ezwnpqs/) was our first veto and we believe it was a great precedent for future vetos.
 
-  - This should probably be obvious but the veto power is best handled by managing your Realm closely while people are suggesting cards. We’re expecting that very, very few cards will actually need a vetoed, and we’ll be sad if this isn’t the case.
+  - This should probably be obvious but the veto power is best handled by managing your Realm closely while people are suggesting cards. We’re expecting that very, very few cards will actually need to be vetoed, and we’ll be sad if this isn’t the case.
 
   - Realm Admins can’t veto cards that aren’t submitted as part of their Realm. If someone makes a card that infringes on your Realm’s design space, even if it only affects cards from your realm ("Destroy all Spideropolis Units"), Realm Admins cannot veto it.
 

@@ -20,6 +20,6 @@ Realm updates are treated as [Cosmetic Update]s, so they don’t take up any slo
 
 - [Cosmetic Update]s of art are always allowed, but may be denied if the **Realm Admin** makes a good argument that they violate lore. "I like the old art and the voters were wrong to upvote this update" is not a good enough reason to reject a cosmetic update to art. Deciding what is a "good argument that the art change violates lore" is ultimately up to the developers, and hopefully it never comes to this.
 
-- In the extremely rare and hopefully nonexistant case of an [Update] or [Cosmetic Update] changing multiple things about a card and being contested by the **Realm Admin** such as an [Update] which changes art, effect, and flavor text, each aspect will be handled separately.
+- In the extremely rare and hopefully nonexistent case of an [Update] or [Cosmetic Update] changing multiple things about a card and being contested by the **Realm Admin** such as an [Update] which changes art, effect, and flavor text, each aspect will be handled separately.
 
 - If two people who collaborated on a card or Realm get into a disagreement we may fall back on the reddit username of the person who submitted the card in question compared to the person who submitted the update. This is getting into a gray area though, and hasn’t come up yet.

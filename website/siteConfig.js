@@ -30,7 +30,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "collective library",
+  projectName: "library",
   organizationName: "odious studios",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -49,7 +49,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: "",
   footerIcon: "",
-  favicon: "/favicon.ico",
+  favicon: "img/favicon.ico",
 
   /* Colors for website */
   colors: {
@@ -88,8 +88,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: "img/undraw_online.svg",
-  twitterImage: "img/undraw_tweetstorm.svg",
+  ogImage: "img/logo-sm.png",
+  twitterImage: "img/logo-sm.png",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
