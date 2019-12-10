@@ -126,3 +126,4 @@ it should probably be discussed with Alec and Nick anyway.
 From early on in Collective we wanted to avoid it becoming "the card game for programmers." We are also pretty happy with how the /library/ pages are right now, and really just want people to fill it out.
 
 If you want to contribute anyway, this project was made with [Docusaurus 1.14](https://docusaurus.io/). You can find a good tutorial on how to get it working [here](https://docusaurus.io/docs/en/tutorial-setup), and it's designed to be at least sort of usable by people who have never written code before.
+
