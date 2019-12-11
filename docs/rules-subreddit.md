@@ -35,6 +35,8 @@ Here are the tags and when to use them:
 
 - Cosmetic updates must be submitted with the [Cosmetic Update] tag, and should only change something that doesn't affect the card's gameplay significantly. For example, the art, the name of the card, its rarity, or its tribal type (even if there is a theoretical, minor change in gameplay significance). Minor bugfixes can also be Cosmetic Updates until (if) we start seeing bad actors who submit Cosmetic Updates to "sneak in" changes to cards.
 
+- Affinity changes are not [Cosmetic Update]s. During discussions about Affinity Identities that prompted [this article](/blog/2019/02/21/affinity-grammar), we considered making them Cosmetic; if this becomes an issue again we might reconsider, but only if players had the intention of making changes that would not be sneaky balance tweaks. Even then, it's unlikely.
+
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
 ### Conflicting Updates
