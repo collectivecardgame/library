@@ -19,6 +19,12 @@
   --reddit: #ff4500;
 }
 
+sup {
+  font-size: 10px;
+  position: relative;
+  bottom: 7px;
+}
+
 /******************************
  * Overrides of original docusaurus -- color 
  ******************************/
