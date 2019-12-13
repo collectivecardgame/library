@@ -106,7 +106,7 @@ Most cosmetics will be purchasable with Gold or Marbles, but will generally be "
 
   ![angry](assets/econ/ashgerdy_angry.png) ![Thinking](assets/econ/buluc_thinking.png) ![Devourer](assets/econ/devourer.png)
 
-  Used to communicate in-match with your opponent. 
+  Used to communicate in-match with your opponent.
 
   Because these are how you will communicate, we are going to make a lot of these, and they'll be common rewards in the Free and Premium Season Pass tiers.
 
@@ -129,6 +129,16 @@ Most cosmetics will be purchasable with Gold or Marbles, but will generally be "
   We're not sure about the pricing on this, but the plan is to sell the ability to use card art from a previous version of the card, before it was updated. This logically follows as part of a longer term feature where people can see the update history of any card. We have the data backed up, but going through it all is quite a lot of work.
 
   If you owned the blueprint at the time the card was updated, you'll receive the alternate art for free.
+
+### Premium Card Creator Features
+
+We have mentioned these in the past, but unfortunately we don't have more details on this than what we've already discussed. We had to prioritize features necessary for the launch, and this was something we are putting off until after the game is on Steam.
+
+What we've already said is most of what we've planned: when you buy the Premium Battle Pass, you'll get 3 months of access to the Premium Card Creator, starting the day you buy it. There will also be ways to access the Premium Card Creator with gold (1-day passes, 7-day passes, 1-month passes, etc).
+
+This may have been said in passing, or maybe even not publicly, but we are committing to never gating any mechanical features to the Premium Card Creator. All features you get with it will be purely cosmetic (new animations, for example).
+
+The Premium Card Creator was honestly the last thing on our mind when writing this blog post, so it's not in the diagrams or any other sections. We're planning on updating this later with more information.
 
 ## Gameplay Mechanisms for Getting Items
 
