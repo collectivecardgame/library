@@ -104,7 +104,7 @@ Most cosmetics will be purchasable with Gold or Marbles, but will generally be "
 
 - Emotes - 2500 Gold or 200 Marbles
 
-  ![angry](assets/econ/ashgerdy_angry.png) ![Thinking](assets/econ/buluc_thinking.png) ![Devourer](assets/econ/devourer.png)
+  <span class="img-bg">![angry](assets/econ/ashgerdy_angry.png) ![Thinking](assets/econ/buluc_thinking.png) ![Devourer](assets/econ/devourer.png)</span>
 
   Used to communicate in-match with your opponent.
 

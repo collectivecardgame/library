@@ -275,6 +275,13 @@ li a:hover {
   color: var(--dark-text-color) !important;
 }
 
+/* Put background behind some images */
+.img-bg img {
+  background-color: white;
+  border: 4px solid grey;
+  margin-right: 10px;
+}
+
 /******************************
  * Overrides of original docusaurus -- misc
  ******************************/
