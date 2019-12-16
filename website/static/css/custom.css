@@ -19,6 +19,12 @@
   --reddit: #ff4500;
 }
 
+sup {
+  font-size: 10px;
+  position: relative;
+  bottom: 7px;
+}
+
 /******************************
  * Overrides of original docusaurus -- color 
  ******************************/
@@ -267,6 +273,13 @@ li a:hover {
 .dark h6,
 .dark a {
   color: var(--dark-text-color) !important;
+}
+
+/* Put background behind some images */
+.img-bg img {
+  background-color: white;
+  border: 4px solid grey;
+  margin-right: 10px;
 }
 
 /******************************

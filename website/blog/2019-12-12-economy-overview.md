@@ -104,9 +104,9 @@ Most cosmetics will be purchasable with Gold or Marbles, but will generally be "
 
 - Emotes - 2500 Gold or 200 Marbles
 
-  ![angry](assets/econ/ashgerdy_angry.png) ![Thinking](assets/econ/buluc_thinking.png) ![Devourer](assets/econ/devourer.png)
+  <span class="img-bg">![angry](assets/econ/ashgerdy_angry.png) ![Thinking](assets/econ/buluc_thinking.png) ![Devourer](assets/econ/devourer.png)</span>
 
-  Used to communicate in-match with your opponent. 
+  Used to communicate in-match with your opponent.
 
   Because these are how you will communicate, we are going to make a lot of these, and they'll be common rewards in the Free and Premium Season Pass tiers.
 
@@ -129,6 +129,16 @@ Most cosmetics will be purchasable with Gold or Marbles, but will generally be "
   We're not sure about the pricing on this, but the plan is to sell the ability to use card art from a previous version of the card, before it was updated. This logically follows as part of a longer term feature where people can see the update history of any card. We have the data backed up, but going through it all is quite a lot of work.
 
   If you owned the blueprint at the time the card was updated, you'll receive the alternate art for free.
+
+### Premium Card Creator Features
+
+We have mentioned these in the past, but unfortunately we don't have more details on this than what we've already discussed. We had to prioritize features necessary for the launch, and this was something we are putting off until after the game is on Steam.
+
+What we've already said is most of what we've planned: when you buy the Premium Battle Pass, you'll get 3 months of access to the Premium Card Creator, starting the day you buy it. There will also be ways to access the Premium Card Creator with gold (1-day passes, 7-day passes, 1-month passes, etc).
+
+This may have been said in passing, or maybe even not publicly, but we are committing to never gating any mechanical features to the Premium Card Creator. All features you get with it will be purely cosmetic (new animations, for example).[^2]
+
+The Premium Card Creator was honestly the last thing on our mind when writing this blog post, so it's not in the diagrams or any other sections. We're planning on updating this later with more information.
 
 ## Gameplay Mechanisms for Getting Items
 
@@ -190,7 +200,7 @@ Most people we talked to when we were getting started told us to sell packs. Peo
 
 - Players make the cards in Collective. Pitting financial incentives of designers against players is a recipe for disaster (for example, players could want to keep rarities generally low to make the game more affordable).
 - Packs are the prototypical lootboxes, and lootboxes are very manipulative.
-  - Nick proposed the idea of selling packs in early 2017, before the peak of anti-lootbox backlash. I was always agains this idea. Late 2017 through 2018 saw a massive shift of opinion away from lootboxes -- we're very glad that we made the right call.[^2]
+  - Nick proposed the idea of selling packs in early 2017, before the peak of anti-lootbox backlash. I was always agains this idea. Late 2017 through 2018 saw a massive shift of opinion away from lootboxes -- we're very glad that we made the right call.[^3]
 - Our voting takes place on Reddit. Historically, Reddit can be a powerful force in organizing public opinion on business models, design decisions, etc. This was demonstrated in unprecedented fashion during this period of late 2017 through 2018, where, by our count, at least five huge AAA games suffered massive backlash from the players that seriously hurt or downright ended the games. This kind of community backlash against some of the biggest titles in a year was basically unprecedented in the industry, and Reddit was always ground zero for this backlash. It only makes sense that we would benefit most from a relatively generous business model free of randomness given the game we're making, and we're very happy to be in the right place at the right time.
 
 Nick was the one who was really excited about a "Battle Pass" model. Fortnite is honestly a bit after our time, but the model seemed like a great way to provide a "Free to Play Premium" level of experience to the largest number of players. The most important thing for a CCG, especially an independent little one like this, is for us to grow in size. The Pass provides cosmetics that we had a lot of fun designing, and it makes them accessible to the largest number of people, in exchange for regular, moderate playtime. Encouraging more play without burning players out is our top priority.
@@ -208,4 +218,5 @@ When making Collective, we came at it from a similar place as many of the curren
 See you in queue!
 
 [^1]: Obviously a dollar and a euro aren't equal in value, but Apple and Google (not sure about Steam) actually restrict how we can price our in-game purchases so they have to be round amounts. Also, USD and the Euro are getting closer to one another, [right now 1 USD is worth .90 euro](https://www.xe.com/currencycharts/?from=USD&to=EUR&view=10Y)
-[^2]: For those curious, MTG actually got the "lootbox" model from sports cards, and the somewhat outdated [United States legislation](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?chapter=9.&part=1.&lawCode=PEN&title=9.) makes special cases for "sports trading cards." Their term for a lootbox is a "Sports trading card grab bag."
+[^2]: There is a possible exception to Premium Card Creator features being purely cosmetic. This is quite a ways off, but we have ideas for some very silly effects which would be mechanical, but would only be allowed on cards with the theoretical upcoming "Joke Rarity" feature. An unfunny example of a "Joke Rarity" card would be: "Weekend Warrior," a card which has agile and +1/+1 if you play it on Saturday or Sunday. Cards with the "Joke Rarity" would not be legal in any format but might, very rarely, show up in a mid-game draft in casual formats like single player, or friends list matches (maybe?). This whole feature is still dubious.
+[^3]: For those curious, MTG actually got the "lootbox" model from sports cards, and the somewhat outdated [United States legislation](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?chapter=9.&part=1.&lawCode=PEN&title=9.) makes special cases for "sports trading cards." Their term for a lootbox is a "Sports trading card grab bag."
