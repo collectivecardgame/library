@@ -98,8 +98,6 @@ When we have approved your list of 8+ cards, the Age will be complete. 8000 Gold
 
 - As long as your Realm has 6+ Commons, 4+ Uncommons, 4+ Rares and a fifteenth and sixteenth card (which can be **Legendary** rarity), you can complete Age II. This same system of multiplying the age requirements applies for all ages after Age I.
 
-- There are no longer lore restrictions for Realms (none whatsoever, as long as they don’t break the [restrictions once they have ‘landed’ on Wanderstar](lore.md) and become part of the game).
-
 - Ages no longer have any specific lore significance, but generally speaking, we want older card’s lore and theme to be protected, just so that nobody can totally transform someone’s old Realm if they leave the game for a bit. **We have no exact rules around this yet.**
 
 - You can submit any number of cards to your Realm as you want without even thinking about completing an Age. You just won’t get the rewards below.
@@ -108,4 +106,6 @@ When we have approved your list of 8+ cards, the Age will be complete. 8000 Gold
 
 ## Additional Information
 
-Cards which refer to all denizens of a Realm can be made without having to finish an Age. The syntax for this should be “All Spideropolis units” if you want to refer to all cards from that Realm, or “All Spideropolis Spiders” if you want to refer to a specific tribe from that Realm. (This is a good reason to give your Realms short names.)
+- Cards which refer to all denizens of a Realm can be made without having to finish an Age. The syntax for this should be “All Spideropolis units” if you want to refer to all cards from that Realm, or “All Spideropolis Spiders” if you want to refer to a specific tribe from that Realm. (This is a good reason to give your Realms short names.)
+
+- Check [here](lore.md#lore-limitations-of-realms) for updated information on lore in realms.

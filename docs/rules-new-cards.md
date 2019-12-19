@@ -69,7 +69,7 @@ There are a couple lore limitations based on the setting of Collective which may
 
 1.  Your card can't represent travelling backwards in time
 2.  Your card can't canonically have species-, planet- or dimension-destroying abilities or similar abilities of such a power level that they could theoretically destroy the setting of the game.
-3.  Full wiki link [here](https://collective.gamepedia.com/Lore_Limitations)
+3.  More information on lore can be found [here](lore.md)
 
 Additionally, your cards cannot reference the subreddit explicitly. This includes mentions of "upvotes," "karma," "meta," "reposts," "OC," etc. This one still counts as "don't destroy the game" because metacommentary on niche subreddits only encourages more metacommentary and makes them more niche.
 
