@@ -44,4 +44,4 @@ If the card you're updating was the winner of a Design Competition with a specif
 
 ### 7. Core Set cards can’t be updated
 
-For more information, you can read a detailed explanation [here](faq.md#updating-the-core-set).
+For more information, you can read a detailed explanation [here](process-faq.md#updating-the-core-set).
