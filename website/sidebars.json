@@ -6,11 +6,15 @@
       "rules-new-cards",
       "rules-updates",
       "rules-commenting",
-      "rules-keywords",
-      "faq"
+      "rules-keywords"
     ],
     "Lore": ["lore", "wanderstar"],
-    "Tutorials": ["howtoplay", "card-creator-tutorials", "card-creator-advanced", "card-creator-faq"],
+    "Tutorials": [
+      "howtoplay",
+      "card-creator-tutorials",
+      "card-creator-advanced",
+      "card-creator-faq"
+    ],
     "Realms": [
       "realms-1",
       "realms-2",
@@ -18,6 +22,7 @@
       "realms-4",
       "realms-5",
       "realms-6"
-    ]
+    ],
+    "FAQ": ["faq", "process-faq"]
   }
 }
