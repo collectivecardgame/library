@@ -25,7 +25,7 @@ The thing is, this feature only works if a lot of cards have commentary, and it 
 
 We’re opening up a [Google sheet](https://docs.google.com/spreadsheets/d/1E1oSu-ddpYJlCuC-dd5_GM49KvWXNsqxLlCa5DKYguY/edit#gid=0) with empty spaces for a commentary on every card in the game so far, and asking for your help in filling it out. Everyone has permission to write on this for now.
 
-**Unlike other features, however, if we don’t have commentary on half of the cards in the game by the end of the year, then we’ll hold off on making this feature for now.** Technically the feature is not very hard, but I think it detracts from the game if it’s only half implemented. (If we don’t get this done in time i’ll be really sad, to be honest. I’m a big believer in this idea.)
+**Unlike other features, however, if we don’t have commentary on half of the cards in the game by January 15, then we’ll hold off on making this feature for now.** Technically the feature is not very hard, but I think it detracts from the game if it’s only half implemented. (If we don’t get this done in time i’ll be really sad, to be honest. I’m a big believer in this idea.)
 
 ## Goals of this feature
 
@@ -83,7 +83,7 @@ Overall we're going to be way looser with this sheet than previous ones because 
 
 Because this feature is not even a sure thing, we are intentionally ignoring potential issues. If we always came up with a perfect plan before trying something new, we never would have even gotten to release the alpha.
 
-At the end of the year, If 50% of cards have commentary on them, we will lock the sheet and I will go through and fix grammar mistakes and other issues. It almost goes without saying that we reserve the right to not use commentary or to edit your provided commentary.
+On January 15, If 50% of cards have commentary on them, we will lock the sheet and I will go through and fix grammar mistakes and other issues. It almost goes without saying that we reserve the right to not use commentary or to edit your provided commentary.
 
 The sheet itself will represent exactly what is in the game, so it will stay public but unable to be edited for now.
 
