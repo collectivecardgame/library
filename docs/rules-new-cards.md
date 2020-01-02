@@ -23,7 +23,7 @@ The developers of this game, should they wish to add a card to the game, do not 
 1.  No cards which mention someone else’s intellectual property, for example a "batman" card.
 2.  No clever use of the art editor to visually represent someone else’s intellectual property.
 3.  No cards which are too close to a card from another game, for example a card with the exact same name and effect (or suspiciously similar name + effect, or a "parody")
-4.  We’re a very small team and not going to take any chances with this.
+4.  This is a grey area and there is no clear line like many copyright issues, but we’re a very small team and not going to take any chances with this.
 
 ### 2. No 'inappropriate content'
 
