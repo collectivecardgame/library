@@ -95,7 +95,7 @@ const siteConfig = {
   // Expand/collapse the links and subcategories under categories.
   docsSideNavCollapsible: true,
 
-  docsUrl: ""
+  docsUrl: "",
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
 
@@ -105,6 +105,7 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+  blogSidebarCount: "ALL"
 };
 
 module.exports = siteConfig;
