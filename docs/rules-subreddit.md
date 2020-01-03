@@ -39,6 +39,10 @@ Here are the tags and when to use them:
 
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
+### [Reprint]
+
+You can resubmit a card as a [Reprint] if it has rotated out of the format. If it gets enough votes, it will replace one of the top 10 cards from that week. You can learn more about rotation [here](/blog/2019/12/08/rotation-2020).
+
 ## Votes
 
 - Votes on cards are combined from two sources:
@@ -50,6 +54,12 @@ Here are the tags and when to use them:
       - Playing modes which don't have in-game voting will provide "voting tickets," which allow players to vote on cards in the game's main menu.
       - We (the developers) have taken a page from Reddit and made a decision to keep the algorithms behind which cards are shown private.
     - In game votes are counted up Friday morning, and votes in game are each worth two Reddit votes.
+
+### Side note on in game voting
+
+We have a policy not to go into details about the process by which we show your card (or don't) during in-game voting. We took a page from Reddit itself here, which is famously secretive about their algorithm and regularly makes changes to it.
+
+We make a post every Tuesday with a preview of the week's progress titled "Week X so far." We do not show the performance of [Reprint]s in this post for technical reasons.
 
 ## Deadlines
 
