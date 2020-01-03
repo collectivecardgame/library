@@ -182,7 +182,9 @@ A: You'll be placed on the Off-Season Pass, which only has a free track, and giv
 
 The daily quest system is similar to that of other card games. Each day, you get a daily quest. You can store up to 3, and re-roll one per day. A significant amount of the daily quests can be completed in singleplayer modes. Daily quests award Season Points.
 
-Your first 20 game wins per week in any mode (including single player modes) will also award SP. We don't want players to feel like playing after finishing their quests is pointless, but also don't want people to get burnt out.
+Your first 15 multiplayer game wins per week ~~in any mode (including single player modes)~~ will also award SP. We don't want players to feel like playing after finishing their quests is pointless, but also don't want people to get burnt out.
+
+Edit 1/3/2020 - Only multiplayer games will count towards weekly wins, but Colosseum and Sentinels will continue to award gold and amber at approximately the same rate as the season pass. Less than 20% of the possible SP earned each week comes from weekly wins.
 
 Every game you play will award some Amber, as well.
 
