@@ -8,7 +8,9 @@ authorURL: mailto:alec@collective.gg
     - We won't be forcing players to start new AG runs. _We don't think having a pre-rotation deck is a much of an advantage, and it's an extra feature we don't have time to implement right now._
 - Added Legacy as an option for the target mode of a deck, making it easier to build singleplayer decks.
 - Fixed bugs that prevented Legacy cards from being playable in the Card Creator or the tutorial.
+- Completely reset the leaderboards.
 - Updated the starting decks for the free Heroes.
+    - Existing players won't have their deck lists updated, but the deck lists are below if you want them.
     - All players will get the blueprints of any cards in the new starting decks.
 
 Below you can find the new starting deck lists. If you want to use one (since you're guaranteed to own the blueprints):
