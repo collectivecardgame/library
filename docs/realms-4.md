@@ -18,7 +18,7 @@ Realm updates are treated as [Cosmetic Update]s, so they don’t take up any slo
 
 - [Cosmetic Update]s of Flavor Text or other non-art aspects can be vetoed by the **Realm Admin** just like new [Card] entries for a realm can be vetoed.
 
-- [Cosmetic Update]s of art are always allowed, but may be denied if the **Realm Admin** makes a good argument that they violate lore. "I like the old art and the voters were wrong to upvote this update" is not a good enough reason to reject a cosmetic update to art. Deciding what is a "good argument that the art change violates lore" is ultimately up to the developers, and hopefully it never comes to this.
+- [Cosmetic Update]s of art are always allowed, but may be denied if the **Realm Admin** makes a good argument that they violate that Realm's lore. "I like the old art and the voters were wrong to upvote this update" is not a good enough reason to reject a cosmetic update to art. Deciding what is a "good argument that the art change violates lore" is ultimately up to the developers, and hopefully it never comes to this.
 
 - In the extremely rare and hopefully nonexistent case of an [Update] or [Cosmetic Update] changing multiple things about a card and being contested by the **Realm Admin** such as an [Update] which changes art, effect, and flavor text, each aspect will be handled separately.
 

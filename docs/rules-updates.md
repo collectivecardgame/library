@@ -45,3 +45,9 @@ If the card you're updating was the winner of a Design Competition with a specif
 ### 7. Core Set cards can’t be updated
 
 For more information, you can read a detailed explanation [here](process-faq.md#updating-the-core-set).
+
+## Conflicting Updates
+
+- If two [Update] or [Cosmetic Update] posts for the same card are voted into the top 10 and have "conflicting changes," we will only use whichever one has more upvotes.
+
+- Conflicting change examples would include: two [Update] posts which change the balance of a card, or two [Cosmetic Update] posts which change the same aspect of a card (its name, for example).

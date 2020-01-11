@@ -23,7 +23,7 @@ The developers of this game, should they wish to add a card to the game, do not 
 1.  No cards which mention someone else’s intellectual property, for example a "batman" card.
 2.  No clever use of the art editor to visually represent someone else’s intellectual property.
 3.  No cards which are too close to a card from another game, for example a card with the exact same name and effect (or suspiciously similar name + effect, or a "parody")
-4.  We’re a very small team and not going to take any chances with this.
+4.  This is a grey area and there is no clear line like many copyright issues, but we’re a very small team and not going to take any chances with this.
 
 ### 2. No 'inappropriate content'
 
@@ -69,7 +69,7 @@ There are a couple lore limitations based on the setting of Collective which may
 
 1.  Your card can't represent travelling backwards in time
 2.  Your card can't canonically have species-, planet- or dimension-destroying abilities or similar abilities of such a power level that they could theoretically destroy the setting of the game.
-3.  Full wiki link [here](https://collective.gamepedia.com/Lore_Limitations)
+3.  More information on lore can be found [here](lore.md)
 
 Additionally, your cards cannot reference the subreddit explicitly. This includes mentions of "upvotes," "karma," "meta," "reposts," "OC," etc. This one still counts as "don't destroy the game" because metacommentary on niche subreddits only encourages more metacommentary and makes them more niche.
 

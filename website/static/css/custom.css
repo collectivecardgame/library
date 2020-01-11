@@ -25,6 +25,11 @@ sup {
   bottom: 7px;
 }
 
+.post em {
+  font-size: 12px;
+  font-style: italic;
+}
+
 /******************************
  * Overrides of original docusaurus -- color 
  ******************************/
