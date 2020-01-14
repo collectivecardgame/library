@@ -88,9 +88,9 @@ Updates and cosmetic updates which don't change the art significantly do not pro
 
 The developers reserve the right to change card text or effects should they break rules or otherwise surface problematic bugs, depend on new features, etc.
 
-Cards that misrepresent their effects, rely on impossible effects, and/or have significantly faulty code may be disqualified. This has only happened once so far; often minor bugs in cards can be found and fixed.
+Cards that misrepresent their effects, rely on impossible effects, and/or have significantly faulty logic blocks may be disqualified. This has only happened once so far; often minor bugs in cards can be found and fixed.
 
-Cards are voted on and accepted based on their visible text. In the case of understanding conflicts or rule consistencies, the code is usually changed to match the implications of the text.
+Cards are voted on and accepted based on their visible text. In the case of understanding conflicts or rule consistencies, the card's blocks are usually changed to match the implications of the text.
 
 Updates that don't change the text of a card generally can't be voted on, because the card text is supposed to be a direct representation of the effect the card has. Changes to how a card works are usually bugfixes which can be handled as a Cosmetic Update or a Dev Update.
 
