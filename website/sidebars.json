@@ -23,6 +23,6 @@
       "realms-5",
       "realms-6"
     ],
-    "FAQ": ["faq", "process-faq"]
+    "FAQ": ["faq", "faq-process", "faq-design-advice"]
   }
 }
