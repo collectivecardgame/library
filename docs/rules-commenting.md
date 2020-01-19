@@ -50,6 +50,6 @@ Pay close attention to the rarity of a card. Decisions on what can appear at wha
 
 With the increasing importance of rarity in the game, we encourage discussions about rarity in the comments of a card. Keep in mind that because rarity changes are [Cosmetic Update]s, there is little reason to take down a card of the wrong rarity; instead, you can plan ahead and submit a [Cosmetic Update] at no cost.
 
-## In-game comments
+## Commentary
 
-A possible future feature for Collective would be the ability to view comments on a card's [Subreddit](https://old.reddit.com/r/collectivecg/) post inside of the client.
+You can provide commentary (max 300 characters) by replying to your own post with a reply, starting with "Commentary:" and it will show up during in-game voting! You can talk about meta motivations, planned archetypes, Realm balance and lore, or just what you were thinking when you made the card.

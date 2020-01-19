@@ -12,6 +12,8 @@ Here you can find advice on how to design a card that's most likely to get into 
 
 We wrote an article giving general advice you can find [here](/blog/2018/10/02/design/), highlighting some early innovators in creating cards. The short version is, there are many ways to get a card in, and being a good artist is only one of them.
 
+We also recommend providing [Commentary](rules-commenting.md#commentary) for your card to explain why you made it.
+
 ## How can I develop an archetype?
 
 This is something we see a lot of people try to do. Very few people come into card games wanting to make individual cards; usually, they have an idea for a whole deck, or a set of cards which work together, either thematically or mechanically.
