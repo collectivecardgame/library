@@ -1,5 +1,5 @@
 ---
-id: process-faq
+id: faq-process
 title: Democratic Process Frequently Asked Questions
 sidebar_label: Democratic Process FAQ
 ---
