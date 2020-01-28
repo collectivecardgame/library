@@ -40,6 +40,18 @@ body {
   color: var(--text-color);
 }
 
+* {
+  scrollbar-base-color: orange;
+  scrollbar-color: #222;
+}
+::-webkit-scrollbar {
+  background-color: #222;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  background-color: #444;
+}
+
 .hash-link .hash-link-icon {
   fill: white;
 }
@@ -296,9 +308,19 @@ body {
   overscroll-behavior-y: none;
 }
 
-/* Images all have a border radius */
 img {
+  /* Images all have a border radius */
   border-radius: 16px;
+
+  /* Not insanely huge */
+  max-height: 600px;
+}
+
+.lonePost img {
+  /* Centered images in standalone blog posts */
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
 
 /* Bolder bold */
