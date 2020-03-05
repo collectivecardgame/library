@@ -8,6 +8,8 @@ Creating a Realm is a large task, but luckily, it's designed from the ground up 
 
 This is a list of the steps involved in creating a Realm, finishing the first Age, creating an (optional) **Legendary** card, and what happens if your Realm completes additional ages.
 
+### **[You can find a list of all Realms here!](/realms)**
+
 ---
 
 ## Steps for Making and Developing a Realm

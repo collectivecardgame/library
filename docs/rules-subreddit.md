@@ -63,11 +63,9 @@ We make a post every Tuesday with a preview of the week's progress titled "Week 
 
 ## Deadlines
 
-On Wednesday night at midnight Pacific Standard Time, a new week of submissions begins. Cards posted in the seven days before that are given a couple days to collect more votes on Reddit and in game, and the votes are tallied up on Friday morning PST.
+On **Wednesday at midnight Pacific Standard Time**, a new week of submissions begins. Cards posted in the seven days before that are given a couple days to collect more votes on Reddit and in game, and the votes are tallied up on Friday morning PST.
 
-## Weekly Card Stream
-
-At **Friday 10:00 am PST**, Alec and Nick review the top cards of the week. They test out the new cards and mechanical updates, looking for bugs and assigning rewards. You can find this stream on [Alec's twitch channel](https://www.twitch.tv/aleccollective).
+At **Friday 10:00 am PST**, new cards are added to the game via an automated script.
 
 ## Submission Rewards
 
@@ -82,23 +80,29 @@ When your [Card] is accepted, contributors to the card get:
 
 Updates and cosmetic updates which don't change the art significantly do not provide rewards.
 
-## Dev Updates and Limbo
+## Card Lifecycle
 
-### Dev Updates
+The frame of a card shows its status and its availability in different modes. Here is a simplified diagram:
 
-The developers reserve the right to change card text or effects should they break rules or otherwise surface problematic bugs, depend on new features, etc.
+<span class="big-img">
+![Card Lifecycle](assets/lifecycle.png)
+</span>
 
-Cards that misrepresent their effects, rely on impossible effects, and/or have significantly faulty logic blocks may be disqualified. This has only happened once so far; often minor bugs in cards can be found and fixed.
+## Exceptional processes
 
-Cards are voted on and accepted based on their visible text. In the case of understanding conflicts or rule consistencies, the card's blocks are usually changed to match the implications of the text.
+### Bugfixes
 
-Updates that don't change the text of a card generally can't be voted on, because the card text is supposed to be a direct representation of the effect the card has. Changes to how a card works are usually bugfixes which can be handled as a Cosmetic Update or a Dev Update.
+If a card has bugs, the process right now is to report it, either with the in-game bug report functionality, reddit message, or discord direct message.
 
-If a player has a strong opinion about a dev change and has some support on the reddit or [Discord](https://discord.gg/C8fTNVt), they can contact the developers and will be heard out.
+If you report a card as bugged and supply a fixed version, it makes things a lot easier for us, and we can (and often will) try your fixed version out and, if it's correct, update the bugged card with your fixed version.
 
-The current list of cards which have been added to the game can be found at https://www.collective.gg/collection.
+If you don't know how to fix an issue yourself, don't worry. Reporting a card as bugged in the discord bug-reports channel often will be enough to get someone to fix it for you. Our community is very helpful :)
 
-### Limbo
+### QoL Updates
+
+The developers reserve the right to modify cards should they cause technical or QoL ("Quality of Life") issues. We really don't want to affect balance with this at all, but sometimes we might. If you're curious what this looks like, [here](https://discordapp.com/channels/408505426787958784/408505426787958786/684860040070299822) was a casual conversation on discord where we did the first one of these.
+
+### Sending to Limbo
 
 If your card is accepted but cannot be added to the game yet, it may be put into "Limbo." Here are the reasons a card may be put in limbo:
 
@@ -108,3 +112,7 @@ If your card is accepted but cannot be added to the game yet, it may be put into
   - We also may fix it ourselves if the original creator never fixes the card. We will wait four weeks before doing this, and even then, probably only do it when reminded to by the players.
 
 When a card is in Limbo, it will be visible at https://www.collective.gg/collection but hidden in a section labelled "Limbo." While in Limbo, the card cannot be used in game.
+
+### Deletion
+
+If your card is found to be breaking one of the rules after it's gotten in, we may fully remove the card from the game. We've only had to do this once so far.

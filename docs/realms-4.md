@@ -6,6 +6,8 @@ sidebar_label: Realm Updates
 
 Realm updates are treated as [Cosmetic Update]s, so they don’t take up any slots. Don’t update other people’s cards and you won’t ever have issues. If you update other people’s cards and Realms, they may get the ability to reject your update.
 
+### **[You can find a list of all Realms here!](/realms)**
+
 ---
 
 - We are expecting that it will be very common for someone to make a card without thinking of a Realm, and when it gets in, desire to make a Realm for it. Hopefully these rules will make sure nothing goes awry:
