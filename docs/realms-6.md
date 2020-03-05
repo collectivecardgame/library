@@ -6,6 +6,8 @@ sidebar_label: Realm Admin Rules
 
 This section comprises some of the rules which hopefully won’t come up often. We included the role of Realm **Realm Admin** out of simplicity, and necessity for someone to have a "final say" on controversial issues. Read only if you are hardcore and care about the details.
 
+### **[You can find a list of all Realms here!](/realms)**
+
 ---
 
 Admins of a Realm should ideally not feel as if they are the "leaders" but rather the maintainers of the Realm. Our intention is for Realms to feel like a community effort. This is why no special rewards are given to **Realm Admins** to place them "above" other contributors.

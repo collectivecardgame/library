@@ -6,6 +6,8 @@ sidebar_label: Small Realms
 
 Small Realms are a way to officially group together sets of cards which are connected but don’t need all the baggage of a full Realm. This is a good way to create cycles of cards, similar to "cycles" from other popular card games, if you want to.
 
+### **[You can find a list of all Realms here!](/realms)**
+
 ---
 
 - Small realms don’t get any of the "rewards" for completing a normal Realm, except that when players complete a small realm they will be rewarded with 500 gold per card, split evenly among all contributors.

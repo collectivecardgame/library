@@ -323,6 +323,10 @@ img {
   transform: translate(-50%, 0);
 }
 
+.big-img img {
+  max-height: 1200px;
+}
+
 /* Bolder bold */
 strong {
   font-weight: 700;
