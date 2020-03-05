@@ -55,11 +55,19 @@ You can resubmit a card as a [Reprint] if it has rotated out of the format. If i
       - We (the developers) have taken a page from Reddit and made a decision to keep the algorithms behind which cards are shown private.
     - In game votes are counted up Friday morning, and votes in game are each worth two Reddit votes.
 
-### Side note on in game voting
+### Side note: On in game voting
 
 We have a policy not to go into details about the process by which we show your card (or don't) during in-game voting. We took a page from Reddit itself here, which is famously secretive about their algorithm and regularly makes changes to it.
 
 We make a post every Tuesday with a preview of the week's progress titled "Week X so far." We do not show the performance of [Reprint]s in this post for technical reasons.
+
+### Side note: Community Commentary
+
+You can provide a message (up to 200 characters long) explaining why you made a card, and why it should go into the game. If it's accepted, your message will show up in game as "Community Commentary". See [here](https://www.collective.gg/library/blog/2019/12/22/commentary/) for more information.
+
+### Side note: Flair in the Subreddit
+
+Posts are assigned flair on the subreddit, but this is done manually by tweaking reddit automoderator settings and it is **not** how the script finds which cards are eligible for in-game voting and the final vote tally. The flairing process can have some issues but flair is entirely cosmetic, and we haven't seen any evidence that cards with improper flairing receive fewer votes. We try to get it right, but we don't have a responsibility to go back and re-flair posts which were labelled incorrectly. (Sometimes we do this anyway)
 
 ## Deadlines
 
