@@ -30,7 +30,7 @@ As your Realm completes further Ages, the rewards are less well-defined. At the 
 
   - All cards from your Realm get a watermark behind the body text.
 
-  - Finishing Age III will give all players access to an emoji based on your watermark.
+  - When you finish Age III, an emote based on your watermark will be added to the game.
 
     - All **Realm Members** will get a special golden version of this icon.
 
@@ -38,7 +38,7 @@ As your Realm completes further Ages, the rewards are less well-defined. At the 
 
   ![Example Realm Icon](assets/rocket.png)
 
-  - From this icon we will create a watermark and a custom emoji as long as it’s not a dick or something. If you tell us what you want it to look like we’ll be happy to do it :)
+  - From this icon we will create a watermark and a custom emote as long as it’s not a dick or something. If you tell us what you want it to look like we’ll be happy to do it :)
 
 ### Age IV
 
