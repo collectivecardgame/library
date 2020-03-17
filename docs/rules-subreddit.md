@@ -119,7 +119,7 @@ If your card is accepted but cannot be added to the game yet, it may be put into
 - The card has a bug. When the original creator fixes the card, we will remove the card from Limbo.
   - We also may fix it ourselves if the original creator never fixes the card. We will wait four weeks before doing this, and even then, probably only do it when reminded to by the players.
 
-When a card is in Limbo, it will be visible at https://www.collective.gg/collection but hidden in a section labelled "Limbo." While in Limbo, the card cannot be used in game.
+When a card is in Limbo, it will be visible at https://www.collective.gg/cards but hidden in a section labelled "Limbo." While in Limbo, the card cannot be used in game.
 
 ### Deletion
 
