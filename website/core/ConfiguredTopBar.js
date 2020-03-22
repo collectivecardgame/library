@@ -20,7 +20,7 @@ const icons = [
   {
     bgImg: "url(/top-bar/topbar.png)  0px 50px",
     text: "Cards",
-    url: "/collection",
+    url: "/cards",
     makeLink: true
   },
   {

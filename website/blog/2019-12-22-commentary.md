@@ -12,7 +12,7 @@ authorURL: mailto:nick@collective.gg
 
 Hey everybody, me and Alec have been talking about a new feature for a while and it’s going to be handled a little differently from normal.
 
-The idea came up when I was playtesting with a friend and they were looking through the collection at all the different cards that have been added so far. They kept saying, “what’s up with this card?” And I found myself explaining little stories behind each one. Every time I did, they were delighted. It kept happening over and over, and I thought, why isn’t this in the game?
+The idea came up when I was playtesting with a friend and they were looking through /cards at all the different cards that have been added so far. They kept saying, “what’s up with this card?” And I found myself explaining little stories behind each one. Every time I did, they were delighted. It kept happening over and over, and I thought, why isn’t this in the game?
 
 As it turned out, other people had similar ideas. The prolific Discord user Feathers thought something like this would be a cool feature on the Wiki, but adding it to the game seems even better.
 
