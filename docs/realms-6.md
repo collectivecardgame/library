@@ -26,6 +26,8 @@ Admins of a Realm should ideally not feel as if they are the "leaders" but rathe
 
   - If an admin is being a total ass for no reason we’ll ban them, but they’d really have to be awful.
 
+- Realm Admins can do a "soft veto" by simply requesting that a card added to the game from their Realm have its Realm removed. As an example, someone made a snowman card and set its realm to Duskmyr in Season 1 Week 1, and the Realm Admin requested that its Realm just be removed because a full veto seemed harsh.
+
 - [Cosmetic Update]s of Flavor Text or other non-art aspects can be vetoed by the Realm Admin. To do this, message us before we do card review on friday.
 
 - Realms cannot have more than two Realm Admins. Neither of them can remove each other as Realm Admins. They can, however, give up their own seat at any time, and if they do so the other Realm Admin can choose another one.
