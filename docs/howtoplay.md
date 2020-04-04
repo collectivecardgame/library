@@ -3,6 +3,6 @@ id: howtoplay
 title: How To Play
 ---
 
-## [How to play guide](https://collective.gg/howtoplay)
+## How to play
 
-We're planning on releasing a detailed Gameplay Trailer which will illustrate the basic concepts of gameplay. Until then, this is a decent introduction to playing Collective.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMuCy_LBGT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

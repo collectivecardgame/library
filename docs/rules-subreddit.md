@@ -7,9 +7,23 @@ Each week, cards made by the community are added to the game. You can submit car
 
 ---
 
-## Weekly timeline
+## Card Lifecycle
+
+<span class="big-img">
+![Card Lifecycle](assets/lifecycle.png)
+</span>
 
 At **Wednesday Midnight PST (UTC-7)** every week, a new week of card submissions begins. Until exactly one week later, all cards The top 10 voted cards of each week are accepted into the game. A query utilizing Reddit's API ensures that the ordering reflects actual upvote amounts and takes vote fluctuation into account as well as possible.
+
+1. When you first create them in the Card Creator, cards have the "Prototype" frame.
+   - These cards are available to test out in the Card Creator (and in Card Creator Multiplayer).
+1. If your card is in the top 10, it will be added to the game and get the orange "Fresh" frame.
+   - These cards are available in singleplayer for additional testing and balance.
+1. On the first day of the month, all "Fresh" cards except for the most recent week change to the navy "Standard" frame, and can be played in multiplayer.
+1. Each year in late May, cards older than a year old are rotated out, and cannot be played in multiplayer any longer.
+   - This coincides with the annual Wandervision Awards, in which we celebrate the best cards of the last year. Nominees and winners are, of course, voted on by the players.
+     - This festival is a longstanding tradtion on Wanderstar and any similarity to other events is entirely coincidental. Its timing coincides with the anniversary of the initial launch of the Alpha.
+   - Eventually, we will create a format where Standard and Rotated cards are both playable. We don't have an estimated date for this.
 
 ## Categories of Submissions
 
@@ -23,7 +37,7 @@ Here are the tags and when to use them:
 
 - New cards should be submitted with the [Card] tag and follow all the rules of any post in the [Subreddit](https://old.reddit.com/r/collectivecg/). The top 10 voted card submissions each week are accepted into the game.
 
-- If there are not at least 20 posts, we roll the current week's cards into the next week. (This has never happened.)
+- If there are less than 20 posts, we roll the current week's cards into the next week. (This has never happened.)
 
 ### [Update]
 
@@ -87,14 +101,6 @@ When your [Card] is accepted, contributors to the card get:
 - A special golden front for the card, and a unique animation which occurs when the card is played (and another unique animation when the card is played against the creator).
 
 Updates and cosmetic updates which don't change the art significantly do not provide rewards.
-
-## Card Lifecycle
-
-The frame of a card shows its status and its availability in different modes. Here is a simplified diagram:
-
-<span class="big-img">
-![Card Lifecycle](assets/lifecycle.png)
-</span>
 
 ## Exceptional processes
 

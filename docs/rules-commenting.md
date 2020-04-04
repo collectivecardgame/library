@@ -52,4 +52,4 @@ With the increasing importance of rarity in the game, we encourage discussions a
 
 ## Commentary
 
-You can provide commentary (max 300 characters) by replying to your own post with a reply, starting with "Commentary:" and it will show up during in-game voting! You can talk about meta motivations, planned archetypes, Realm balance and lore, or just what you were thinking when you made the card.
+You can provide commentary (max 200 characters) by replying to your own post with a reply, starting with "Commentary:" and it will show up during in-game voting! You can talk about meta motivations, planned archetypes, Realm balance and lore, or just what you were thinking when you made the card.
