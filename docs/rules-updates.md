@@ -34,15 +34,11 @@ Your change should be a significant and noticeable change to the art.
 
 (If this is the only thing you have changed, you can submit it as a [Cosmetic Update] instead.)
 
-### 5. No changing a card to remove its Design Competition restriction
-
-If the card you're updating was the winner of a Design Competition with a specific restriction, your update cannot change the card to break the restriction. (Design Competitions are an old feature which we may come back to at some point.)
-
-### 6. Cards can be updated the week they are added
+### 5. Cards can be updated the week they are added
 
 [Update]s or [Cosmetic Update]s to cards which have not been added to the game yet are allowed; if the [Card] post gets in and the [Update] or [Cosmetic Update] does too, it will be updated before it is added to the game. This has not been utilized as far as we (the developers) can tell.
 
-### 7. Core Set cards can’t be updated
+### 6. Core Set cards can’t be updated
 
 For more information, you can read a detailed explanation [here](faq-process.md#updating-the-core-set).
 
