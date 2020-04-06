@@ -4,6 +4,10 @@ title: Card Creator Advanced Topics
 sidebar_label: Card Creator Advanced Topics
 ---
 
+Topics for people who really want to get into the weeds.
+
+---
+
 ## "This card's..." is a Lie
 
 The "This card's..." block is common way to quickly use properties of the card you're editing, but what it actual does is a bit more complex. "This card's..." searches through a hierarchy of different objects, looking for the property you've picked.

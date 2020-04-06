@@ -3,7 +3,9 @@ id: card-creator-faq
 title: "Strange Card Creator Facts"
 ---
 
-Based on a list compiled by one of the players.
+Based on a list compiled by one of our players. Thanks!
+
+---
 
 1. **To check if a card belongs to a Tribe : one should use {Contains...} instead of {Equal to...}**
 
