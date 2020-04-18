@@ -57,6 +57,10 @@ Here are the tags and when to use them:
 
 You can resubmit a card as a [Reprint] if it has rotated out of the format. If it gets enough votes, it will replace one of the top 10 cards from that week. You can learn more about rotation [here](/blog/2019/12/08/rotation-2020).
 
+### [DC]
+
+Sometimes we hold weekly Design Competitions, in which a theme or restriction is provided (like the Flying DC, where cards had to have Flying). Design Competitions can have anywhere from 1 to 5 winners, and the number is picked ahead of time. Just like [Update]s, the top N (some number from 1-5) [DC] submissions with more votes than the 10th normal submission each week are accepted.
+
 ## Votes
 
 - Votes on cards are combined from two sources:
