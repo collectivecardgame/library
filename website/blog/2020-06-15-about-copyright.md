@@ -58,7 +58,7 @@ If you are actually the artist of images which are also found on any of these si
 
 If you are uploading art that you downloaded from one of these sites, either you came out of a portal from a pre-enlightenment culture before modern concepts of copyright law were created, or you just don't know or care about copyright law. We live in a litigious country and have to be very careful about this topic as a small studio without a full time lawyer. As a result we lean very heavily on the side of copyright security. If it looks like you made an honest mistake, we may let you off with a warning, but sometimes we really have to bring out the banhammer.
 
-![putin](assets/about-copyright/banhammer.png)
+![banhammer](assets/about-copyright/banhammer.png)
 
 ## Help get the word out: Asking small artists for permission
 
@@ -68,7 +68,7 @@ We are currently working on a much better beginning-of-game experience, and one 
 
 One of the ways we think this could be a nice win-win would be to get small artists interested in Collective. If you see a small artist on Reddit, Instagram, Artstation, Deviantart, etc. with art you want to use, **try asking them if you can use their art.** This is how we got art from [Tom Kyzivat](https://www.artstation.com/murderousautomaton) and other talented artists.
 
-**If they are interested, tell us, and we will contact them via the contact info listed on their site or social media.** (Screenshots can help convince us that they are interested, but we will still need to contact them ourselves.) We don't want to be annoying, so we recommend you contact artists who have fewer than 1000 followers. There are a ton of extremely talented artists with robust portfolios that, in our experience, love the idea of having their art in a card game.
+**If they are interested, tell us, and we will contact them via the contact info listed on their site or social media.** (Screenshots can help convince us that they are interested, but we will still need to contact them ourselves.) We don't want to be annoying, so we recommend you contact artists who have fewer than a few thousand followers. There are a ton of extremely talented artists with robust portfolios that, in our experience, love the idea of having their art in a card game.
 
 A lot of artists like to stream their art on Twitch just for fun. Searching for low-viewer [Art streams on Twitch](https://www.twitch.tv/directory/game/Art) and developing relationships with artists there could make this feel more collaborative and less like you're asking them for something and giving nothing in return.
 
