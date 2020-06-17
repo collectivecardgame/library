@@ -35,11 +35,11 @@ In our experience, websites which actually use the term "Creative Commons Zero" 
 
 If you must use these sites, here are some which say they provide a CC0 license:
 
-- [pixabay.com](pixabay.com)
-- [pexels.com](pexels.com)
-- [negativespace.com](negativespace.com)
-- [unsplash.com](unsplash.com)
-- [openclipart.org](openclipart.org)
+- [pixabay.com](http://pixabay.com)
+- [pexels.com](http://pexels.com)
+- [negativespace.com](http://negativespace.com)
+- [unsplash.com](http://unsplash.com)
+- [openclipart.org](http://openclipart.org)
 
 ### Step 2: Reverse image search
 
