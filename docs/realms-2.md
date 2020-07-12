@@ -84,7 +84,7 @@ When we have approved your list of 8+ cards, the Age will be complete. 8000 Gold
 
 - After you’ve submitted enough cards of the specified rarities to complete your first Age, you can submit a card of **Legendary** rarity.
 
-- If a **Legendary** card is submitted without fulfilling the rarity prerequisites, but is voted into the game, it will be downgraded to a Rare.
+- If a **Legendary** card is submitted without fulfilling the rarity prerequisites, but is voted into the game, it will be downgraded to a Rare, or not allowed in (depending on if the text fits in the card at the Rare font size and if too many Rares were submitted that week).
 
   - When an age is completed, the realm creators may upgrade a Rare in the realm to **Legendary**.
 

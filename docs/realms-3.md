@@ -14,6 +14,10 @@ As your Realm completes further Ages, the rewards are less well-defined. At the 
 
 ## Rewards for Completing Ages I-III and Beyond
 
+### Every Age
+
+For each completed Age, you can create a new Legendary rarity card. Read more [here](https://www.collective.gg/library/realms-2/#part-3-your-first-legendary-if-you-want).
+
 ### Age I
 
 - “Waiting for game” tip in the loading screen

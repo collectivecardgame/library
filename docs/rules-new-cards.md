@@ -102,15 +102,41 @@ The second part of this rule refers to "token" cards, which are a colloquial ter
 - It's fine to make cards which reference other cards which are not Undraftable rarity ([example](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/6850a340-884b-11e8-aada-fd6394e05a92-m.png)), but if someone made a card that referenced another card of a rarity other than Undraftable before it had gotten into the game, it would be equivalent to the card and the new card it's referencing being added to the game at the same time.
 - Updating a single card which was Undraftable to have a different rarity, making it able to be added to a deck via normal means, is fine.
 
+## Section 4: Rules actually designed to influence gameplay
+
+This section of rules is the only one created not to protect us from malicious or inexperienced players, but actually to affect game balance.
+
+Right now there is only one rule in this section, which was created after months and months of players making cards that were overall high quality, well designed, well balanced, flavorful, and beautiful, especially given the community creation and voting aspects, as well as the state of comparable games during this time. This rule (or a rule somewhat like it) was requested by the players themselves, due to a general pattern of complexity creep over time.
+
+### 14. At most, players can add one rare and four uncommons each week
+
+Ten cards will be added each week, but there are restrictions on the number of cards per rarity which can be added. At most, one Rare and four Uncommons will be accepted.
+
+#### Details for Rule #14
+
+- This rule was introduced along with a [patch](/library/blog/2020/07/10/v111-patchnotes/) which made font sizes smaller as rarity increased. Along with [rule #10](/library/rules-new-cards#10-no-cards-with-intentionally-misleading-text), this rule effectively creates hard limits on complexity added to the card pool each week.
+
+- If these limits are exceeded, ten cards will still be added each week – a second rare or a fifth uncommon will just not be one of them.
+
+- There is no limit on the number of commons which can be added per week; this means that theoretically, ten different common rarity cards could be added in one week.
+
+- There is no limit of this type to the number of Legendary rarity cards, because their submission is already [limited by the Realms processes](http://localhost:3000/library/realms-2#part-3-your-first-legendary-if-you-want), specifically, the number of Ages your Realm has completed.
+
 ## Designing for upcoming features
 
-### 1. Mechanics which haven't been implemented yet
+### 1. Mechanics which have not been implemented yet
 
-1.  Manually triggering "hook" abilities like summon, entomb is not possible yet
+Attempts at mechanics in this section will likely fail for technical reasons:
+
+1.  Manually triggering "hook" abilities like summon, entomb, or active abilities
 2.  Replacement effects
-3.  No effects like "if you would draw a card, instead discard a card"
-4.  No effects like "if you would take damage, instead you…" \(Including "instead nothing happens"\)
-5.  Change of control effects ("gain control of a unit" or "move a unit from your opponent's discard to your in play"). [Some cards](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/b8039f70-0d63-11ea-b8a5-55b7f0bcc8e2-s.png) are worded like this but it's actually shorthand for "make a copy of one player's cards under the other player's control."
+    - No effects like "if you would draw a card, instead discard a card"
+    - No effects like "if you would take damage, instead you…" \(Including "instead nothing happens"\)
+3.  Change of control effects
+    - Example: "gain control of a unit" or "move a unit from your opponent's discard to your in play."
+    - [Some cards](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/b8039f70-0d63-11ea-b8a5-55b7f0bcc8e2-s.png) are worded like this but it's actually shorthand for "make a copy of one player's cards under the other player's control."
+
+Other than these, most effects found in most card games (Hearthstone, Magic, Yu-Gi-Oh) are possible in Collective.
 
 ### 2. Use upcoming terminology for 'remove from the game'
 
