@@ -14,6 +14,7 @@ If you want to upload images from a site without any worries about infringing on
 
 - [Wikimedia commons, category: CC-Zero](https://commons.wikimedia.org/wiki/Category:CC-Zero) Contains over 4 million files!
 - [USDA ARS](https://www.ars.usda.gov/oc/images/image-gallery/) (Lots of nice images from nature)
+- [Smithsonian Open Access](https://www.si.edu/openaccess) (Millions of 2D and 3D items)
 
 ## Risky: User-submission based sites
 
