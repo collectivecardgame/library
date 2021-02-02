@@ -93,14 +93,12 @@ You cannot submit cards with identical or nearly identical art to already existi
 
 If accepted, a card based around a feature which isn't implemented yet will look essentially the same as a bug to any user who doesn't know the story behind the card. So far there has been [one exception](https://files.collective.gg/p/cards/27e10290-dba3-11e8-8e83-c3560f26b7c7-m.png), and it was allowed because the new feature was approved by us on [Discord](https://discord.gg/C8fTNVt) and planned to be released shortly after the card was made. (The new feature was the keyword Agile, which we mentioned before the card was created.)
 
-### 13. Your card can't reference more than 13 external cards or any new non-'token' cards
+### 13. Your card can't reference any new non-'token' cards
 
-The "no more than 13 external cards" rule means that your card cannot reference more than 13 cards other than itself using the "external card" aspect of the Card Creator. You can see [here](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/ff09a570-8481-11e8-8a27-19a1b508c4e9-m.png) an early card which referenced eleven new cards. This rule is baked into the Card Creator itself, so it should not be possible to create a card like this even if you tried.
+This rule refers to "token" cards, which are a colloquial term for cards which are generally made as an effect by another card and cannot be collected or added to your deck via normal means. The "token" term comes from games like Magic: the Gathering, which has cards which make "1/1 soldier tokens," for example. If you reference new non-token cards in this way, it would count as getting multiple cards in with one post and exceeding the top 10 cards for each week.
 
-The second part of this rule refers to "token" cards, which are a colloquial term for cards which are generally made as an effect by another card and cannot be collected or added to your deck via normal means. The "token" term comes from games like Magic: the Gathering, which has cards which make "1/1 soldier tokens," for example. "Token" cards must be given the "Undraftable" rarity, which prevents them from being added to a deck on their own.
-
-- It's fine to make cards which reference other cards which are not Undraftable rarity ([example](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/6850a340-884b-11e8-aada-fd6394e05a92-m.png)), but if someone made a card that referenced another card of a rarity other than Undraftable before it had gotten into the game, it would be equivalent to the card and the new card it's referencing being added to the game at the same time.
-- Updating a single card which was Undraftable to have a different rarity, making it able to be added to a deck via normal means, is fine.
+- It's fine to make cards which reference existing cards which are not Token rarity ([example](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/6850a340-884b-11e8-aada-fd6394e05a92-m.png)), but if someone made a card that referenced another card of a rarity other than Undraftable before it had gotten into the game, it would be equivalent to the card and the new card it's referencing being added to the game at the same time.
+- Updating a single card which was a Token to have a different rarity, making it able to be added to a deck via normal means, is fine. This should be marked as an Update, not a Cosmetic Update.
 
 ## Section 4: Rules actually designed to influence gameplay
 
@@ -128,11 +126,11 @@ Ten cards will be added each week, but there are restrictions on the number of c
 
 Attempts at mechanics in this section will likely fail for technical reasons:
 
-1.  Manually triggering "hook" abilities like summon, entomb, or active abilities
-2.  Replacement effects
+1.  Replacement effects
     - No effects like "if you would draw a card, instead discard a card"
     - No effects like "if you would take damage, instead you…" \(Including "instead nothing happens"\)
-3.  Change of control effects
+    - Preventing or partially reducing damage also falls under this category.
+2.  Change of control effects
     - Example: "gain control of a unit" or "move a unit from your opponent's discard to your in play."
     - [Some cards](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/b8039f70-0d63-11ea-b8a5-55b7f0bcc8e2-s.png) are worded like this but it's actually shorthand for "make a copy of one player's cards under the other player's control."
 
