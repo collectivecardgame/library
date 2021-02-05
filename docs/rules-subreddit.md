@@ -20,8 +20,8 @@ At **Wednesday Midnight PST (UTC-7)** every week, a new week of card submissions
 1. If your card is in the top 10, it will be added to the game and get the orange "Fresh" frame.
    - These cards are available in singleplayer for additional testing and balance.
 1. On the first day of the month, all "Fresh" cards except for the most recent week change to the navy "Standard" frame, and can be played in multiplayer.
-1. Each year in late May, cards older than a year old are rotated out, and cannot be played in multiplayer any longer.
-   - This coincides with the annual Wandervision Awards, in which we celebrate the best cards of the last year. Nominees and winners are, of course, voted on by the players.
+1. At the beginning of the year, the oldest 52 weeks of cards rotate out, and cannot be played in multiplayer any longer.
+   - Another annual event is the Wandervision Awards, which happens in late May, in which we celebrate the best cards of the last year. Nominees and winners are, of course, voted on by the players.
      - This festival is a longstanding tradtion on Wanderstar and any similarity to other events is entirely coincidental. Its timing coincides with the anniversary of the initial launch of the Alpha.
    - Eventually, we will create a format where Standard and Rotated cards are both playable. We don't have an estimated date for this.
 
@@ -48,6 +48,7 @@ Here are the tags and when to use them:
 ### [Cosmetic Update]
 
 - Cosmetic updates must be submitted with the [Cosmetic Update] tag, and should only change something that doesn't affect the card's gameplay significantly. For example, the art, the name of the card, its rarity, or its tribal type (even if there is a theoretical, minor change in gameplay significance). Minor bugfixes can also be Cosmetic Updates until (if) we start seeing bad actors who submit Cosmetic Updates to "sneak in" changes to cards.
+   - Rarity updates that change the rarity of a Token card to be collectible should be marked as [Update]s instead of [Cosmetic Update]s.
 
 - Affinity changes are not [Cosmetic Update]s. During discussions about Affinity Identities that prompted [this article](/blog/2019/02/21/affinity-grammar), we considered making them Cosmetic; if this becomes an issue again we might reconsider, but only if players had the intention of making changes that would not be sneaky balance tweaks. Even then, it's unlikely.
 
@@ -67,11 +68,10 @@ Sometimes we hold weekly Design Competitions, in which a theme or restriction is
   - Reddit vote totals, collected by an automated script run Friday morning.
     - The script is run a few times, 15 minutes apart, and the Reddit vote totals are calculated by taking the average from every time the script is run.
   - In game vote totals
-    - In some modes, players will be shown a set of four cards out which haven't been added to the game yet. They can choose one of these cards, try it out in game to see how it feels, then provide an up or down vote.
-      - If a player has seen all cards visible on the [Subreddit](https://old.reddit.com/r/collectivecg/), they will see a set of four cards they have already voted on, along with their existing votes.
-      - Playing modes which don't have in-game voting will provide "voting tickets," which allow players to vote on cards in the game's main menu.
+    - After playing a match, you will be given the option to vote on a card for a small gold bonus. You can view the card and its commentary and vote on it.
+      - Another way to vote in-game is through voting tickets, which are earned through the season pass and allow you to vote on a random card, or change your vote on a card you have already voted on. Voting tickets cannot be used to vote on a specific card you haven't voted on yet.
       - We (the developers) have taken a page from Reddit and made a decision to keep the algorithms behind which cards are shown private.
-    - In game votes are counted up Friday morning, and votes in game are each worth two Reddit votes.
+    - In game votes are counted up Friday morning.
 
 ### Side note: On in game voting
 
@@ -95,16 +95,15 @@ At **Friday 10:00 am PST**, new cards are added to the game via an automated scr
 
 ## Submission Rewards
 
-When your [Card] is accepted, contributors to the card get:
+When your [Card] is accepted, all contributors to the card get:
 
-- A reward of gold (an in-game currency) split evenly among all contributors to the card
-  - Cards which have bugs will receive 500 gold and not let into the game until their original creator fixes them
-  - Cards which work correctly will receive 2000 gold
-  - Cards with an especially impressive card logic ("blocks") will get 3000 gold
+- A reward of 1000 gold (an in-game currency) split evenly among all contributors of the card.
 - The Blueprint of the card, which lets you include as many copies of the card as you want in any number of decks for any format where the card is valid.
 - A special golden front for the card, and a unique animation which occurs when the card is played (and another unique animation when the card is played against the creator).
 
-Updates and cosmetic updates which don't change the art significantly do not provide rewards.
+Each week, you can also earn 200 gold for having a submitted card in the top 75% of all submissions.
+
+Updates, cosmetic updates, and reprints do not provide rewards.
 
 ## Exceptional processes
 
