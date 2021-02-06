@@ -118,7 +118,7 @@ Ten cards will be added each week, but there are restrictions on the number of c
 
 - There is no limit on the number of commons which can be added per week; this means that theoretically, ten different common rarity cards could be added in one week.
 
-- There is no limit of this type to the number of Legendary rarity cards, because their submission is already [limited by the Realms processes](http://localhost:3000/library/realms-2#part-3-your-first-legendary-if-you-want), specifically, the number of Ages your Realm has completed.
+- There is no limit of this type to the number of Legendary rarity cards, because their submission is already [limited by the Realms processes](/library/realms-2#part-3-your-first-legendary-if-you-want), specifically, the number of Ages your Realm has completed.
 
 ## Designing for upcoming features
 
