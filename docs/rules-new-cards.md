@@ -106,15 +106,15 @@ This section of rules is the only one created not to protect us from malicious o
 
 Right now there is only one rule in this section, which was created after months and months of players making cards that were overall high quality, well designed, well balanced, flavorful, and beautiful, especially given the community creation and voting aspects, as well as the state of comparable games during this time. This rule (or a rule somewhat like it) was requested by the players themselves, due to a general pattern of complexity creep over time.
 
-### 14. At most, players can add one rare and four uncommons each week
+### 14. At most, players can add two rares and four uncommons each week
 
-Ten cards will be added each week, but there are restrictions on the number of cards per rarity which can be added. At most, one Rare and four Uncommons will be accepted.
+Ten cards will be added each week, but there are restrictions on the number of cards per rarity which can be added. At most, two Rares and four Uncommons will be accepted.
 
 #### Details for Rule #14
 
 - This rule was introduced along with a [patch](/library/blog/2020/07/10/v111-patchnotes/) which made font sizes smaller as rarity increased. Along with [rule #10](/library/rules-new-cards#10-no-cards-with-intentionally-misleading-text), this rule effectively creates hard limits on complexity added to the card pool each week.
 
-- If these limits are exceeded, ten cards will still be added each week – a second rare or a fifth uncommon will just not be one of them.
+- If these limits are exceeded, ten cards will still be added each week – a third rare or a fifth uncommon will just not be one of them.
 
 - There is no limit on the number of commons which can be added per week; this means that theoretically, ten different common rarity cards could be added in one week.
 
