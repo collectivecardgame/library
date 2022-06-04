@@ -6,7 +6,7 @@ sidebar_label: Rules: New Cards
 
 If you'd like to make a new card for Collective, you can submit a [Card] post to the [Subreddit](https://old.reddit.com/r/collectivecg/) made with the in-game or website version of the [Card Creator](/creator). You need an account and a certain amount of progress in game to access the Card Creator.
 
-The top 10 voted card submissions each week are accepted into the game.
+The top 10 voted card submissions each week are accepted into the game alongside a bonus card made by our Patreon members.
 
 ---
 
@@ -21,7 +21,7 @@ The developers of this game, should they wish to add a card to the game, do not 
 ### 1. No copyright infringement
 
 1.  No cards which mention someone else’s intellectual property, for example a "batman" card.
-2.  No clever use of the art editor to visually represent someone else’s intellectual property.
+2.  No clever use of the art to visually represent someone else’s intellectual property.
 3.  No cards which are too close to a card from another game, for example a card with the exact same name and effect (or suspiciously similar name + effect, or a "parody")
 4.  This is a grey area and there is no clear line like many copyright issues, but we’re a very small team and not going to take any chances with this.
 
@@ -44,7 +44,7 @@ Nothing racist, homophobic, misogynistic, transphobic, etc. Nothing containing o
 
 ### 5. No cards about modern politics
 
-LGBT+ representation is OK.
+No cards about modern (1914-Today) politics
 
 ### 6. No cards which are intentionally designed around surfacing a bug
 
@@ -89,9 +89,9 @@ For example, a unit which says "does nothing" but wins the game if unblocked.
 
 You cannot submit cards with identical or nearly identical art to already existing cards.
 
-### 12. No cards that are designed around a feature that you'd like us to make
+### 12. No cards with unexplainable new features
 
-If accepted, a card based around a feature which isn't implemented yet will look essentially the same as a bug to any user who doesn't know the story behind the card. So far there has been [one exception](https://files.collective.gg/p/cards/27e10290-dba3-11e8-8e83-c3560f26b7c7-m.png), and it was allowed because the new feature was approved by us on [Discord](https://discord.gg/C8fTNVt) and planned to be released shortly after the card was made. (The new feature was the keyword Agile, which we mentioned before the card was created.)
+You may come up with and introduce your new custom features into the game, but only if all those unofficial features are explained on a card they are put on. This can be done by putting the explanation in the brackets (like [here](https://files.collective.gg/p/cards/27e10290-dba3-11e8-8e83-c3560f26b7c7-m.png)) or by making your card create explanation tokens in Removed From Game area (like [here](https://files.collective.gg/p/cards/647a0a40-981b-11ea-8146-536a286d16e4-m.png)). Also remember that any card referring to Abilities can target official abilities (aka keywords) only.
 
 ### 13. Your card can't reference any new non-'token' cards
 
@@ -135,10 +135,6 @@ Attempts at mechanics in this section will likely fail for technical reasons:
     - [Some cards](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/b8039f70-0d63-11ea-b8a5-55b7f0bcc8e2-s.png) are worded like this but it's actually shorthand for "make a copy of one player's cards under the other player's control."
 
 Other than these, most effects found in most card games (Hearthstone, Magic, Yu-Gi-Oh) are possible in Collective.
-
-### 2. Use upcoming terminology for 'remove from the game'
-
-We are eventually separating "remove from the game" effects into two terms: "bind" (which removes a card from the game with the intention of it being able to come back – these will show up on hover) and "banish" (completely removed from the game forever). You can assume that effects like [Dust to Dust](https://files.collective.gg/p/cards/eb13d5e0-fd8a-11e8-853e-4fd996be908b-s.png) would use "banish," and as a result you should not make cards which can "choose" and return cards from the entire "removed from game" zone to play. This is because we really want to avoid the "removed from game" zone becoming a "second graveyard" like it is in Magic: the Gathering, leading them to make this [self-deprecating joke](http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74231&type=card).
 
 ## Making last-minute changes
 
