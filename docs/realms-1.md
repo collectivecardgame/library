@@ -6,7 +6,7 @@ sidebar_label: What are Realms?
 
 Realms are sets of cards that come from the same world and all landed on Wanderstar. Their type line will say "\<Tribe> from \<Realm>," ex: "Spider from Spideropolis."
 
-### **[You can find a list of all Realms here!](/realms)**
+### **[You can find a list of most of the Realms here!](/realms)**
 
 ---
 
