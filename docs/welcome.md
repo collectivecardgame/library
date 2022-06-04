@@ -17,4 +17,4 @@ We also have a [GitHub](https://github.com/collectivecardgame/library), which ma
 
 ## [Wiki](https://collective.gamepedia.com/Collective_Wiki)
 
-Our [Wiki](https://collective.gamepedia.com/Collective_Wiki) is moderated heavily by the players and is a great companion to the Library, with lots of strategies for specific heroes, cards and decks. If it's not here, you can probably find it on the wiki!
+Our [Wiki](https://collective.gamepedia.com/Collective_Wiki) is moderated heavily by the players. It's a great addition for learning more about our Collective's in-game lore as well as history of the game itself. If you'd like to help expand on a topic or two, or just want to have a good read, you can check it out!
