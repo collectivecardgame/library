@@ -6,7 +6,7 @@ sidebar_label: Rules: Updates
 
 When a card is too strong, too weak, or should otherwise be changed, you can submit an [Update] to the [Subreddit](https://old.reddit.com/r/collectivecg/) with a modified version of the card.
 
-The top 3 voted update submissions with more votes than the 10th normal submission each week are accepted. (The max 3 updates have been nicknamed "update slots" by the community.)
+The top 5 voted update submissions with more votes than the 10th normal submission each week are accepted. (The max 5 updates have been nicknamed "update slots" by the community.)
 
 ---
 
