@@ -81,9 +81,3 @@ If players want to do self-inserts or something similar that's OK. Characters wh
 ## Lore of Cards
 
 Cards in collective are a pure abstraction and have no explicit analog in the story. Cute references to cards like [Spidrawer](https://www.collective.gg/try-out?imgurl=https://files.collective.gg/p/cards/41daaa90-820f-11e8-a543-9db396062a3c-s.png) are totally fine but don't mean anything in terms of the story.
-
-## Where is the Official Lore Heading?
-
-We at Odious Studios are working more heavily on adding features than developing the plot right now, but we do have plans for other locations on the planet, a fleshed out backstory for the game and an explanation for Portals, Heroes, Wanderstar and its denizens, and the other main parts of the story.
-
-One other thing: just like the meta of Collective is determined by the players, the events and overall tone of the game will be as well. When we have more time to show the impacts of player-created things, we will strive to think dynamically about what would happen in this setting with the cards and Realms that the players have been working on. Many Realms have a tragic or war-torn backstory and are written as if, immediately after landing on Wanderstar, they began to violently contest territory between one another, and we think showing the impact of this on the world could be quite powerful. We believe that, instead of following some set script planned years ahead of time, developing the lore based on the direction of the players is the most "Collective" direction we can go.
