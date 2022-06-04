@@ -32,8 +32,6 @@ For each completed Age, you can create a new Legendary rarity card. Read more [h
 
 - Official Icon
 
-  - All cards from your Realm get a watermark behind the body text.
-
   - When you finish Age III, an emote based on your watermark will be added to the game.
 
     - All **Realm Members** will get a special golden version of this icon.
