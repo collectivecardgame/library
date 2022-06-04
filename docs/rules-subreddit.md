@@ -13,7 +13,7 @@ Each week, cards made by the community are added to the game. You can submit car
 ![Card Lifecycle](assets/lifecycle.png)
 </span>
 
-At **Wednesday Midnight PST (UTC-7)** every week, a new week of card submissions begins. Until exactly one week later, all cards The top 10 voted cards of each week are accepted into the game. A query utilizing Reddit's API ensures that the ordering reflects actual upvote amounts and takes vote fluctuation into account as well as possible.
+Every **Wednesday Midnight PST (UTC-7)**, a new week of card submissions begins. You can vote on submitted cards as well as submit them yourself. The top 10 off the best rated cards of each week are added to the game!
 
 1. When you first create them in the Card Creator, cards have the "Prototype" frame.
    - These cards are available to test out in the Card Creator (and in Card Creator Multiplayer).
@@ -21,9 +21,9 @@ At **Wednesday Midnight PST (UTC-7)** every week, a new week of card submissions
    - These cards are available in singleplayer for additional testing and balance.
 1. On the first day of the month, all "Fresh" cards except for the most recent week change to the navy "Standard" frame, and can be played in multiplayer.
 1. At the beginning of the year, the oldest 52 weeks of cards rotate out, and cannot be played in multiplayer any longer.
-   - Another annual event is the Wandervision Awards, which happens in late May, in which we celebrate the best cards of the last year. Nominees and winners are, of course, voted on by the players.
-     - This festival is a longstanding tradtion on Wanderstar and any similarity to other events is entirely coincidental. Its timing coincides with the anniversary of the initial launch of the Alpha.
-   - Eventually, we will create a format where Standard and Rotated cards are both playable. We don't have an estimated date for this.
+   - The only exception to this rule are friendly challenges, where you may use all the cards. You can even play with those you just made in the editor by pasting card links into your deck code! Go wild with it!
+
+As a side-note - Sometimes, more than 10 cards per week enter the game thanks to various events, design competitions and bonus submissions from our lovely patrons on Patreon (Which we all thank you so much for supporting the game!)
 
 ## Categories of Submissions
 
@@ -41,22 +41,22 @@ Here are the tags and when to use them:
 
 ### [Update]
 
-- Updates must be submitted with the [Update] tag, and should have a change in the card's effect visible in the card's stats, numbers and/or effect. The top 3 voted update submissions with more votes than the 10th normal submission each week are accepted. (The max 3 updates have been nicknamed "update slots" by the community.)
+- Updates must be submitted with the [Update] tag, and should have a change in the card's effect visible in the card's stats, numbers and/or effect. The top 5 voted update submissions with more votes than the 10th normal submission each week are accepted. (The max 5 updates have been nicknamed "update slots" by the community.)
 
 - A fix to how a card works without changing the card's text itself, in order to match its function with its description, can be handled with a [Cosmetic Update] or a Dev Update instead.
 
 ### [Cosmetic Update]
 
-- Cosmetic updates must be submitted with the [Cosmetic Update] tag, and should only change something that doesn't affect the card's gameplay significantly. For example, the art, the name of the card, its rarity, or its tribal type (even if there is a theoretical, minor change in gameplay significance). Minor bugfixes can also be Cosmetic Updates until (if) we start seeing bad actors who submit Cosmetic Updates to "sneak in" changes to cards.
+- Cosmetic updates must be submitted with the [Cosmetic Update] tag, and should only change something that doesn't affect the card's gameplay significantly. For example, the art, the name of the card, its rarity, or its tribal type (even if there is a theoretical, minor change in gameplay significance).
    - Rarity updates that change the rarity of a Token card to be collectible should be marked as [Update]s instead of [Cosmetic Update]s.
 
-- Affinity changes are not [Cosmetic Update]s. During discussions about Affinity Identities that prompted [this article](/blog/2019/02/21/affinity-grammar), we considered making them Cosmetic; if this becomes an issue again we might reconsider, but only if players had the intention of making changes that would not be sneaky balance tweaks. Even then, it's unlikely.
+- Affinity change is also not a [Cosmetic Update], but an [Update], as it directly influences card's cost to play it.
 
 - Cosmetic updates with more votes than the 10th normal submission each week are accepted, with no slot limits.
 
 ### [Reprint]
 
-You can resubmit a card as a [Reprint] if it has rotated out of the format. If it gets enough votes, it will replace one of the top 10 cards from that week. You can learn more about rotation [here](/blog/2019/12/08/rotation-2020).
+You can resubmit a card as a [Reprint] if it has rotated out of the format. If it gets enough votes, it will replace one of the top 10 cards from that week.
 
 ### [DC]
 
@@ -109,15 +109,15 @@ Updates, cosmetic updates, and reprints do not provide rewards.
 
 ### Bugfixes
 
-If a card has bugs, the process right now is to report it, either with the in-game bug report functionality, reddit message, or discord direct message.
+If a card has bugs, the process right now is to report it - you can do it with the in-game bug, but the fastest way would be with a discord message.
 
 If you report a card as bugged and supply a fixed version, it makes things a lot easier for us, and we can (and often will) try your fixed version out and, if it's correct, update the bugged card with your fixed version.
 
 If you don't know how to fix an issue yourself, don't worry. Reporting a card as bugged in the discord bug-reports channel often will be enough to get someone to fix it for you. Our community is very helpful :)
 
-### QoL Updates
+### Dev Updates
 
-The developers reserve the right to modify cards should they cause technical or QoL ("Quality of Life") issues. We really don't want to affect balance with this at all, but sometimes we might. If you're curious what this looks like, [here](https://discordapp.com/channels/408505426787958784/408505426787958786/684860040070299822) was a casual conversation on discord where we did the first one of these.
+The developers reserve the right to modify any card in the game. It mostly happened when a card caused technical or QoL ("Quality of Life") issues, though (like we did [here](https://discordapp.com/channels/408505426787958784/408505426787958786/684860040070299822); over 2 years ago). We strongly respect the freedom of creativity of our players and we never use this option if there's no need to. Collective is a Community Created Card Game after all!
 
 ### Sending to Limbo
 
@@ -132,4 +132,4 @@ When a card is in Limbo, it will be visible at https://www.collective.gg/cards b
 
 ### Deletion
 
-If your card is found to be breaking one of the rules after it's gotten in, we may fully remove the card from the game. We've only had to do this once so far.
+If your card is found to be breaking one of the rules after it's gotten in, we may fully remove the card from the game. We've only had to do this twice throughout Collective's entire existence.
