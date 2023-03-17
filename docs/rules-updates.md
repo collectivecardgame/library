@@ -47,17 +47,17 @@ Not all updates aim to change the functionality or balance of a card, some may j
 
 
 
-## Balance Team
+## Balance Update
 
-Sometimes the community agrees that something needs to change, but not on how it should be changed, in these cases one may decide to post a [Balance Team] and let a small group of non-specified players supervised by the Committee's balance team decide how to change it.
+Sometimes the community agrees that something needs to change, but not on how it should be changed, in these cases one may decide to post a [Balance Update] and let a small group of non-specified players supervised by the Committee's balance team decide how to change it.
 
-- A [Balance Team] post must consist of the card’s name, a brief explanation in the title, and the card’s link.
+- A [Balance Update] post must consist of the card’s name, a brief explanation in the title, and the card’s link.
 - Said explanation must be clear on whether the card should be nerfed, buffed or sidegraded and provide some context behind the wish for a change.
-- Unlike anything else in the weekly, Balance Team updates are listed in the week they get in, but are implemented on the week after, giving the team a full week to decide on a change.
+- Unlike anything else in the weekly, Balance updates are listed in the week they get in, but are implemented on the week after, giving the team a full week to decide on a change.
 - The balance team still has to follow the same rules as normal updates.
 
 ### Note: Conflicting Updates
 
 - If two [Update] or [Cosmetic Update] or a combination for the same card are voted into the top 10 and have "conflicting changes," we will only use whichever one has more upvotes.
-- Conflicting change examples would include: any two [Update] posts, an [Update] and a [Balance Team] post, or two [Cosmetic Update] posts which change the same aspect of a card (its name, for example).
-- If a [Cosmetic Update] and a [Balance Team] for the same card are voted into the top 10, the Cosmetic Update will be used as the basis of the [Balance Team] post.
+- Conflicting change examples would include: any two [Update] posts, an [Update] and a [Balance Update] post, or two [Cosmetic Update] posts which change the same aspect of a card (its name, for example).
+- If a [Cosmetic Update] and a [Balance Update] for the same card are voted into the top 10, the Cosmetic Update will be used as the basis of the [Balance Team] post.
